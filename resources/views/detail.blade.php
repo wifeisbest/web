@@ -1,0 +1,1 @@
+<h1>Làm mọi thứ đơn giản nhất có thể</h1>
