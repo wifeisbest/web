@@ -1,0 +1,24 @@
+.banner{
+    background-color: #000;
+    margin-top: 3.5rem;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+}
+.banner__heading{
+    color: var(--second-color);
+    font-size: var(--mb-5);
+    text-align: center;
+}
+.banner__heading-description{
+    display: block;
+    font-size: var(--mb-3);
+    font-weight: 100;
+    padding-top: var(--mb-5);
+}
+.layout{
+    max-width: 80%;
+    margin: 0 auto;
+}
