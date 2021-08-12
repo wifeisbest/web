@@ -13,8 +13,12 @@ class PostController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
-    {
-        $posts = DB::table('posts')->where('cate', '=', 'html')->get();
+    {   
+        $posts = DB::table('posts')
+                ->where('cate', '=', 'html')
+                ->orderBy('id', 'desc')
+                ->get();
+        // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'Phan mo ta them';
 
         return view('post.list')->with(['posts'=> $posts, 'description'=>$description]);
