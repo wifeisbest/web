@@ -5,11 +5,11 @@
             </div>
             <div class="nav__menu" id="nav-menu">
                 <ul class="nav__list">
-                    <li class="nav__item"><a href="/" class="nav__link active">NodeJs</a></li>
-                    <li class="nav__item"><a href="#about" class="nav__link">Javascript</a></li>
-                    <li class="nav__item"><a href="#skills" class="nav__link">CSS</a></li>
-                    <li class="nav__item"><a href="#work" class="nav__link">HTML</a></li>
-                    <li class="nav__item"><a href="#contact" class="nav__link">Outside</a></li>
+                    <li class="nav__item"><a href="/nodejs" class="nav__link active">NodeJs</a></li>
+                    <li class="nav__item"><a href="/javascript" class="nav__link">Javascript</a></li>
+                    <li class="nav__item"><a href="/css3" class="nav__link">CSS</a></li>
+                    <li class="nav__item"><a href="/html" class="nav__link">HTML</a></li>
+                    <li class="nav__item"><a href="/benle" class="nav__link">Outside</a></li>
                 </ul>
             </div>
             <div class="nav__toggle" id="nav-toggle">

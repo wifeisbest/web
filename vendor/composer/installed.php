@@ -1,20 +1,38 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'v6.20.1',
-        'version' => '6.20.1.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '2d9346f36efe3eb5e5680ac38f7cd7e13a112610',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
     'versions' => array(
+        'cocur/slugify' => array(
+            'pretty_version' => 'v4.0.0',
+            'version' => '4.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../cocur/slugify',
+            'aliases' => array(),
+            'reference' => '3f1ffc300f164f23abe8b64ffb3f92d35cec8307',
+            'dev_requirement' => false,
+        ),
         'cordoval/hamcrest-php' => array(
             'dev_requirement' => true,
             'replaced' => array(
                 0 => '*',
             ),
+        ),
+        'cviebrock/eloquent-sluggable' => array(
+            'pretty_version' => '6.0.4',
+            'version' => '6.0.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../cviebrock/eloquent-sluggable',
+            'aliases' => array(),
+            'reference' => '752d29751a8dcc16cfe17ed5796bc91ace854140',
+            'dev_requirement' => false,
         ),
         'davedevelopment/hamcrest-php' => array(
             'dev_requirement' => true,
@@ -326,12 +344,12 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => 'v6.20.1',
-            'version' => '6.20.1.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '2d9346f36efe3eb5e5680ac38f7cd7e13a112610',
             'dev_requirement' => false,
         ),
         'laravel/tinker' => array(
@@ -607,8 +625,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0|2.0',
-                1 => '1.0.0',
+                0 => '1.0.0',
+                1 => '1.0|2.0',
             ),
         ),
         'psr/simple-cache' => array(
