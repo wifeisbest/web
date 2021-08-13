@@ -18,7 +18,7 @@ Route::get('/javascript', 'MyController@javascript');
 Route::get('/css3', 'MyController@css3');
 Route::get('/benle', 'MyController@benle');
 Route::get('/html', 'MyController@html');
-Route::resource('/baiviet', 'PostController',['only' => ['create','edit','store','update','destroy']])->middleware('auth');
+Route::resource('/baiviet', 'PostController',['only' => ['create','edit','store','update','destroy','index']])->middleware('auth');
 
 
 Route::get('/show','MyController@showAllPost')->middleware('auth');
