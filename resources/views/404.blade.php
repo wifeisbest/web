@@ -40,7 +40,18 @@
             .page__404{
                 margin-top: 1rem;
             }
-            
+            img{
+                width: 383px;
+            }
+            .page__404 h1{
+                font-size: 2rem;
+            }
+            .danger{
+                font-size: 20px;
+            }
+            a{
+                text-decoration: underline;
+            }
         }
     
 </style>
