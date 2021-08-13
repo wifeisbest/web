@@ -71,4 +71,12 @@ class MyController extends Controller
 
         return view('benle.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
     }
+
+    //show all post
+    public function showAllPost(){
+        $posts = Post::all();
+
+        $heading = 'Chinh sua post';
+        return view('admin.allpost')->with(['posts'=> $posts,'heading' => $heading]);
+    }
 }

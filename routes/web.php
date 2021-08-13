@@ -18,12 +18,15 @@ Route::get('/javascript', 'MyController@javascript');
 Route::get('/css3', 'MyController@css3');
 Route::get('/benle', 'MyController@benle');
 Route::get('/html', 'MyController@html');
-Route::resource('/baiviet', 'PostController');
+Route::resource('/baiviet', 'PostController',['only' => ['create','edit','store','update','destroy']])->middleware('auth');
 
-// detai
-Route::get('/Lý do mình chọn trở thành người viết mã tay ngang', 'DetailController@benle1');
+
+Route::get('/show','MyController@showAllPost')->middleware('auth');
 
 
 
 
 Route::get('/', 'MyController@index');
+Auth::routes();
+//['register' => false,'reset' => false]
+Route::get('/home', 'HomeController@index')->name('home');
