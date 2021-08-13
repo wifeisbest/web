@@ -40,10 +40,7 @@
             .page__404{
                 margin-top: 1rem;
             }
-            body{
-                width: 100vh;
-                margin: 0 auto;
-            }
+            
         }
     
 </style>
