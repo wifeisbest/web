@@ -79,4 +79,12 @@ class MyController extends Controller
         $heading = 'Chinh sua post';
         return view('admin.allpost')->with(['posts'=> $posts,'heading' => $heading]);
     }
+    
+    public function detail(){
+        
+        $description = 'Phan mo ta them';
+        $title = 'benle';
+
+        return view('detail')->with(['description'=>$description,'title'=>$title]);
+    }
 }

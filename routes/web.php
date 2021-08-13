@@ -30,3 +30,6 @@ Route::get('/', 'MyController@index');
 Auth::routes(['register' => false,'reset' => false]);
 //['register' => false,'reset' => false]
 Route::get('/home', 'HomeController@index')->name('home');
+
+//detail
+Route::get('/detail', 'MyController@detail');
