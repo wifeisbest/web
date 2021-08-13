@@ -1,4 +1,4 @@
-<h1>day la phan them ra {{$heading}}</h1>
+<h1> {{$heading}}</h1>
 
 
 @foreach($posts as $post)

@@ -22,6 +22,8 @@ class PostController extends Controller
         $description = 'Phan mo ta them';
 
         return view('post.list')->with(['posts'=> $posts, 'description'=>$description]);
+        
+        
     }
 
     /**
@@ -91,6 +93,7 @@ class PostController extends Controller
         $post->cate = $request->cate;
         $post->save();  
 
+        
         return redirect()->route('baiviet.index');
     }
 
