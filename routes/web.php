@@ -27,6 +27,6 @@ Route::get('/show','MyController@showAllPost')->middleware('auth');
 
 
 Route::get('/', 'MyController@index');
-Auth::routes();
+Auth::routes(['register' => false,'reset' => false]);
 //['register' => false,'reset' => false]
 Route::get('/home', 'HomeController@index')->name('home');
