@@ -1,4 +1,4 @@
-@extends('layouts.home')
+@extends('layouts.detail')
 
 @section('content')
     <div class="bd-grid">

@@ -17,14 +17,5 @@
             </div>
         </nav>
 </header>  
-    <div class="banner">
-        <a href="/" class="banner_link">
-            <h1 class="banner__heading">
-                Blog Của 1 Người Tay Ngang 
-            <span class="banner__heading-description">
-                Là nơi tôi chia sẻ mọi thứ tôi biết để làm nên blog này
-            </span>          
-        </h1>
-        </a>
-    </div>
+    
 

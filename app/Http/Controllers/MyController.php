@@ -12,7 +12,7 @@ class MyController extends Controller
         $posts = DB::table('posts')
                 ->orderBy('id', 'desc')
                 ->get();
-        $title = 'XZY home page';
+        $title = 'XZY Trang chủ';
         $description = "Lập trình website, blog cơ bản nhất cho người mới bắt đầu,chi tiết từ Z đến A";
         return view('welcome')->with(['title'=>$title,'posts'=> $posts ,'description'=>$description]);
     }
@@ -23,8 +23,8 @@ class MyController extends Controller
                 ->orderBy('id', 'desc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
-        $description = 'Phan mo ta them';
-        $title = 'Nodejs';
+        $description = 'Nodejs nền tảng chạy và thực thi javascript trên môi trường ngoài trình duyệt';
+        $title = 'Nodejs cơ bản';
 
         return view('nodejs.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
     }
@@ -34,8 +34,8 @@ class MyController extends Controller
                 ->orderBy('id', 'desc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
-        $description = 'Phan mo ta them';
-        $title = 'javascript';
+        $description = 'Javascript ngôn ngữ kịch bản, cực kỳ năng động, linh hoạt';
+        $title = 'Javascript cơ bản nhất';
 
         return view('javascript.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
     }
@@ -45,8 +45,8 @@ class MyController extends Controller
                 ->orderBy('id', 'desc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
-        $description = 'Phan mo ta them';
-        $title = 'css3';
+        $description = 'CSS căn chỉnh mọi thứ trên website ,blog, làm đẹp với kiến thức CSS cơ bản nhất ';
+        $title = 'CSS cơ bản nhất';
         return view('css.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
     }
     public function html(){
@@ -55,8 +55,8 @@ class MyController extends Controller
                 ->orderBy('id', 'desc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
-        $description = 'Phan mo ta them';
-        $title = 'html';
+        $description = 'HTMl kiến thức cơ bản nhất về HTML, cách xây dựng phần khung blog, website với ngôn ngữ HTML';
+        $title = 'HTML cơ bản nhất';
 
         return view('html.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
     }
@@ -66,8 +66,8 @@ class MyController extends Controller
                 ->orderBy('id', 'desc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'benle')->get();
-        $description = 'Phan mo ta them';
-        $title = 'benle';
+        $description = 'Kiến thức mà người tự học viết mã cần tìm hiểu kỹ trước kỹ bắt tay xây dựng blog, website';
+        $title = 'Kiến thức phụ trợ';
 
         return view('benle.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
     }
