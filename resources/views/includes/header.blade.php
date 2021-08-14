@@ -1,7 +1,7 @@
 <header class="l-header">
         <nav class="nav">
             <div>
-                <a href="/" class="nav__logo">XYZ</a>
+                <a href="/" class="nav__logo">XYZABC</a>
             </div>
             <div class="nav__menu" id="nav-menu">
                 <ul class="nav__list">

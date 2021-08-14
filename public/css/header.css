@@ -19,6 +19,7 @@
 }
 .nav__logo{
     color: var(--second-color);
+    
 }
 .nav__menu{
     color: var(--second-color);
@@ -56,30 +57,29 @@
 
 
 /* footer */
-.footer__title{
-    font-size: 1.5rem;
     
-}
-.footer__icon{
-    font-size: 1.5rem;
-    color:var(--second-color);
-    margin: 0 var(--mb-2);
-    cursor: pointer;
-}
-.footer__icon:hover{
-    color:blue;
-    
-}
 .footer{
     background-color: var(--first-color);
-    color: var(--second-color);
     text-align: center;
-    font-weight: var(--font-semi);
     padding: 1rem 0;
     margin-top: var(--mb-6);
 }
 .footer__title a{
     color: var(--second-color);
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.footer__social a{
+    color: var(--second-color);
+}
+.footer__social{
+    position: relative;
+    
+}
+.footer__gmail{
+    top: 4px;
+    position: absolute;
+    left: 569px;
 }
 
 @media screen and (max-width : 768px){
@@ -104,6 +104,11 @@
     .nav__list{
         display: flex;
         flex-direction: column;
+    }
+    .footer__gmail{
+        top: 3px;
+        position: absolute;
+        left: 99px;
     }
 }
 .show{

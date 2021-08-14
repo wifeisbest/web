@@ -87,4 +87,11 @@ class MyController extends Controller
 
         return view('detail')->with(['description'=>$description,'title'=>$title]);
     }
+
+    public function contact(){
+        $description = 'Liên hệ với tác giả';
+        $title = 'Contact';
+
+        return view('contact')->with(['description'=>$description,'title'=>$title]);
+    }
 }

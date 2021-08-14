@@ -33,3 +33,5 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 //detail
 Route::get('/detail', 'MyController@detail');
+// contact
+Route::get('/contact', 'MyController@contact');
