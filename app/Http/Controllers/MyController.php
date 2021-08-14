@@ -94,4 +94,10 @@ class MyController extends Controller
 
         return view('contact')->with(['description'=>$description,'title'=>$title]);
     }
+    public function mucdich(){
+        $description = 'Blog dành cho người tự học chi tiết từ Z đến A';
+        $title = 'Mục đích mình tạo ra blog này để làm gi ?';
+
+        return view('benle.mucdich')->with(['description'=>$description,'title'=>$title]);
+    }
 }

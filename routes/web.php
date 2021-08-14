@@ -35,3 +35,6 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/detail', 'MyController@detail');
 // contact
 Route::get('/contact', 'MyController@contact');
+
+// all post
+Route::get('/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi', 'MyController@mucdich');
