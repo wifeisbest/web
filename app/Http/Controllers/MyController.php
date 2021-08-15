@@ -12,7 +12,7 @@ class MyController extends Controller
         $posts = DB::table('posts')
                 ->orderBy('id', 'desc')
                 ->get();
-        $title = 'XZY Trang chủ';
+        $title = 'XZY- Học lập trình cơ bản cho người mới';
         $description = "Lập trình website, blog cơ bản nhất cho người mới bắt đầu,chi tiết từ Z đến A";
         return view('welcome')->with(['title'=>$title,'posts'=> $posts ,'description'=>$description]);
     }
@@ -67,7 +67,7 @@ class MyController extends Controller
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'benle')->get();
         $description = 'Kiến thức mà người tự học viết mã cần tìm hiểu kỹ trước kỹ bắt tay xây dựng blog, website';
-        $title = 'Kiến thức phụ trợ';
+        $title = 'Kiến thức cần thiết, cơ bản nhất';
 
         return view('benle.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
     }
