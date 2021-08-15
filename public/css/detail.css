@@ -103,3 +103,16 @@ h2{
         padding-left: 8px;
     }  
 }
+.next__pre{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0 30px 0;
+}
+/* mucdich */
+#one{
+    display: inline;
+    text-decoration: underline;
+}
+.next .pre{
+    color: var(--second-color);
+}

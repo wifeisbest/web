@@ -4,41 +4,48 @@
     <div class="bd-grid">
         <section class="detail">
             <article itemscope itemtype="http://schema.org/Article">
-                <h1 class="section__title detail__h1" itemprop="name">Welcome NodeJs</h1>
+                <h1 class="section__title detail__h1" itemprop="name">Lựa chọn lối đi </h1>
                 <div class="pots__body" itemprop="articleBody">
                     <p>
-                        Nodejs là gì ? Nó một nền tảng để javascript có thể chạy được ngoài trình duyệt, điều này có ý nghĩa như thế nào,
-                        trước kia theo mình biết thì javascript ra đời và chỉ chạy trên trình duyệt hỗ trợ cho các hành động khi người dùng
-                        tương tác với website, tỷ dụ như click, lăn chuột... Trước sự phát triển mạnh mẽ của javascript yêu cầu ngôn ngữ này có
-                        thể chạy ngoài trình duyệt và khi nó NodeJs ra đời.
+                        Từ cuối  những năm 2017 khi thông tin về cách mạng công nghiệp 4.0 lan tỏa trên các phương tiện thông tin, 
+                        sống trong bầu không khí của 1 cuộc cách mạng đó sẵn với niềm đam mê vọc vạch máy tính mình đã chọn đến với công nghệ thông tin,
+                        với những người không được đào tạo bài bản như mình đến được với hôm nay, có được 1 cái blog nhỏ nhỏ mà mình tự tay làm từ <span class="hightline"> Z đến A</span> đó là 1 chặng
+                        đường không ngắn. Mình viết blog này mục đính là để các bạn tay ngang, những bạn bắt đầu từ con số không,
+                         có hứng thú với việc viết mã, và muốn tự tay làm ra 1 sản phẩm riêng  giảm đi thời gian mà mình đã đi qua.
+                    
                     </p>
                     <p>
-                        Thông thường khi một người mới học về javascript chuyển sang tìm hiểu về NodeJs thường hay bỡ ngỡ và lúng túng đó là
-                        bạn chỉ quen với javascript trên trình duyệt nên gặp khá nhiều lúng túng với các cú pháp mới ở NodeJs , trong NodeJs các câu lệnh
-                        <span class="hightline">require, import, exports</span> thường xuyên dùng đến.
+                        Các bài viết trong blog này mình hướng đến các mới tinh muốn tự học và trải nghiệm công việc viết mã, nếu bạn là chuyên gia hoặc bạn là người
+                        đã có nhiều kinh nghiệm ghé ngang qua blog của mình nếu thấy có vấn đề nào cần bổ sung sửa chữa, hoặc góp ý vui lòng <a class="hightline" id="one" href="/contact">Liên hệ </a>, mình
+                        chân thành cảm ơn bạn.
+                        
                     </p>
                     <p>
-                        Các câu lệnh này bạn vẫn có thể sử dụng ở các file .js khi
-                        làm việc với trình duyệt nhưng không ai làm thế cả. Vậy điểm khác nhau ở đây là gì ? Nó nằm ngay ở câu đầu tiên của bài viết này,
-                        đó là NodeJs giúp chúng ta thực thi các file javascript ngoài môi trường trình duyệt, ngay trên chính máy tính của chúng ta và tất nhiên rồi
-                        bạn cần cài NodeJs trên máy tính của mình.
-                    </p>
-                    <p>
-                        <img src="/img/node-detail2.png" alt="welcome nodejs" >
-                    </p>
-                    <h2 class="section__h2">Khái Niệm Mở Đầu</h2>
-                    <p>
-                        Đi cùng với NodeJs không thể thiếu được đó là npm là trình quản lý các các gói modul, các gói được xây dựng và phát triển trên một
-                        cộng đồng cực kỳ rộng lớn các lập trình viên javascript , đôi khi sự rộng lón của nó cũng gây khó khăn trong việc lựa chọn các gói,
-                        phù hợp.
-                    </p>
-                    <p>
-                        Hãy tin tôi đi, các gói đi kèm với NodeJs thật sự là tuyệt vời nếu bạn dùng hết khả năng của nó, 1 chân trời mới về NodeJs đang ở ,
-                        phía trước mình cùng bạn hãy cùng nhau khám phá thế giới của NodeJs thật hay và ly kỳ. 
-                    </p>
+                        <span class="hightline">Khi bạn là người mới tinh khi bắt đầu sẽ có vô vàn khó khăn,</span> khó khăn đầu tiên đó là tìm đáp áp cho những lựa chọn hướng đi của mình
+                        Chọn mảng mobile thì học ngôn ngữ gì ? Lộ trình ra sao ? Học ở đâu ? Có những khóa học nào ? Học mảng web thì học những gì ? Webapp là gi ?
+                        Học mobile mới là xu thế  ? Hay là AI Bigdata, IOT những thứ này giờ đang hot ? Mình cũng đã như gặp phải những câu hỏi như thế và
+                        bạn nếu cũng như mình lựa chọn mảng web thì trong khuôn khổ blog này mình sẽ viết mọi thứ mình tìm hiểu được để viết nên blog này.
 
+                    </p>
+                    <p>
+                        <img src="/img/benle2.png" alt="Chinh phục thử thách" >
+                    </p>
+                    <h2 class="section__h2">Tạo ra blog như này có khó không ? lâu không ?</h2>
+                    <p>
+                        Để hiểu về cách thức hoạt động 1 website 1 blog cách tạo ra nó thì có rất rất nhiều kiến thức bạn cần phải biết, phải học
+                        từ những gì mình trải qua và cảm nhận được và đến bây giờ những kiến thức đó thì mình cũng mới chỉ hiểu được ở mức độ cơ bản nhất,
+                        bạn hãy yên tâm khi mọi thứ bạn đã hiểu rồi thì "cũng dễ thôi mà".
+                    </p>
+                    <p>
+                        Nếu bạn có quyết tâm và muốn chinh phục thì hãy bắt đầu thôi nào. Ngọn núi cao nhất nằm trong chính con người bạn.
+                    </p>
+                    <div class="next__pre">
+                        <a href="/benle" class= "next"title="bên lề viết mã" target="_blank"> </a>
+                        <a href="/benle" class= "pre"title="bên lề viết mã" target="_blank"> bài tiếp theo</a>
+                    </div>
+                    <!-- <span class="hightline">require, import, exports</span> thường xuyên dùng đến. -->
                     <div class="tag">
-                        Tag: <a href="/node" title="nodejs" target="_blank"> NodeJs cơ bản</a>
+                        Tag: <a href="/benle" title="bên lề viết mã" target="_blank"> Bên lề</a>
                     </div>
                 </div>
             </article>
