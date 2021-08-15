@@ -11,7 +11,7 @@
                         sống trong bầu không khí của 1 cuộc cách mạng đó sẵn với niềm đam mê vọc vạch máy tính mình đã chọn đến với công nghệ thông tin,
                         với những người không được đào tạo bài bản như mình đến được với hôm nay, có được 1 cái blog nhỏ nhỏ mà mình tự tay làm từ <span class="hightline"> Z đến A</span> đó là 1 chặng
                         đường không ngắn. Mình viết blog này mục đính là để các bạn tay ngang, những bạn bắt đầu từ con số không,
-                         có hứng thú với việc viết mã, và muốn tự tay làm ra 1 sản phẩm riêng  giảm đi thời gian mà mình đã đi qua.
+                         có hứng thú với việc viết mã, và muốn tự tay làm ra 1 sản phẩm riêng 1 sản phẩm mà bạn quản lý từ đầu đến cuối.
                     
                     </p>
                     <p>
@@ -41,7 +41,7 @@
                     </p>
                     <div class="next__pre">
                         <a href="/benle" class= "next"title="bên lề viết mã" target="_blank"> </a>
-                        <a href="/benle" class= "pre"title="bên lề viết mã" target="_blank"> bài tiếp theo</a>
+                        <a href="/benle" class= "pre"title="bên lề viết mã" target="_blank"> >>>Lộ trình xây dựng blog</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span> thường xuyên dùng đến. -->
                     <div class="tag">
@@ -55,7 +55,7 @@
                         <img src="/img/node-detail1.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">Title của các bài viết, hay chính là slug</a>
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" Lộ trình"target="_blank" class="relative__description">Lộ trình việc viết mã xây dựng...</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">

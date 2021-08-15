@@ -100,4 +100,10 @@ class MyController extends Controller
 
         return view('benle.mucdich')->with(['description'=>$description,'title'=>$title]);
     }
+    public function lotrinh(){
+        $description = 'Lộ trình chi tiết nhất cho các bạn mới học viết code, lộ trình cơ bản nhất';
+        $title = 'Lộ trình học viết code';
+
+        return view('benle.lotrinh')->with(['description'=>$description,'title'=>$title]);
+    }
 }
