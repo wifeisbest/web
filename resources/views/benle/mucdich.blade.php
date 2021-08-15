@@ -41,7 +41,7 @@
                     </p>
                     <div class="next__pre">
                         <a href="/benle" class= "next"title="bên lề viết mã" target="_blank"> </a>
-                        <a href="/benle" class= "pre"title="bên lề viết mã" target="_blank"> >>>Lộ trình xây dựng blog</a>
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" class= "pre"title="bên lề viết mã" target="_blank"> >>>Lộ trình xây dựng blog</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span> thường xuyên dùng đến. -->
                     <div class="tag">
