@@ -80,13 +80,7 @@ class MyController extends Controller
         return view('admin.allpost')->with(['posts'=> $posts,'heading' => $heading]);
     }
     
-    public function detail(){
-        
-        $description = 'Phan mo ta them';
-        $title = 'benle';
-
-        return view('detail')->with(['description'=>$description,'title'=>$title]);
-    }
+    
 
     public function contact(){
         $description = 'Liên hệ với tác giả';
@@ -97,13 +91,16 @@ class MyController extends Controller
     public function mucdich(){
         $description = 'Blog dành cho người tự học chi tiết từ Z đến A';
         $title = 'Mục đích mình tạo ra blog này để làm gi ?';
+        $url = 'muc-dinh-ma-minh-tao-ra-blog-nay-la-gi';
+        $src = 'roadmap';
 
-        return view('benle.mucdich')->with(['description'=>$description,'title'=>$title]);
+        return view('benle.mucdich')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function lotrinh(){
         $description = 'Lộ trình chi tiết nhất cho các bạn mới học viết code, lộ trình cơ bản nhất';
         $title = 'Lộ trình học viết code';
-
-        return view('benle.lotrinh')->with(['description'=>$description,'title'=>$title]);
+        $url = 'lo-trinh-hoc-viet-ma-xay-dung-blog-website';
+        $src = 'roadmap';
+        return view('benle.lotrinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
