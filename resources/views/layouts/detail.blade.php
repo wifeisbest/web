@@ -19,7 +19,11 @@
     <meta property="og:description" content="Lập trình website, blog cơ bản nhất cho người mới bắt đầu,chi tiết từ Z đến A">
     <meta property="og:type" content="Article">
     <meta property="og:title" content="{{$title}}">
-    
+    <meta property="og:url" content="https://xyzabc.xyz/">
+    <meta property="og:image" content="https://xyzabc.xyz/img/roadmap.png">
+    <meta property="og:image:width" content="250">
+    <meta property="og:image:height" content="250">
+    <meta property="og:image:type" content="image/jpeg">
     <link rel="stylesheet" href="css/main.css" > 
     @yield('css')
     
