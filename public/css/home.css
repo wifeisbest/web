@@ -20,7 +20,7 @@
 }
 
 .section__title{
-    
+    margin-top: var(--mb-6);
     font-size: 27px;
     color: #222222;
 }
@@ -63,7 +63,7 @@ h4{
     text-align: center;
     margin: 0 0 var(--mb2) 0;
     font-size: 13px;
-    padding-bottom: var(--mb-6);
+    
 }
 h4 a{
     text-decoration: underline;
@@ -85,7 +85,9 @@ h4 a{
         width: 100px;
         height: 79px;
     }
-    
+    .section__title{
+        margin-top: var(--mb-2);
+    }
     
 }
 #title{

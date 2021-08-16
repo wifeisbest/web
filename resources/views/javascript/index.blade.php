@@ -1,9 +1,9 @@
-@extends('layouts.home')
+@extends('layouts.detail')
 
 @section('content')
 
 <div class="bd-grid">
-    <h4>Blog được thiết kế theo mẫu <a href="https://laptrinhcuocsong.com/">laptrinhcuocsong.com</a> </h4>
+    
 
     @foreach($posts as $post)
     

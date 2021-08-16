@@ -25,8 +25,9 @@ class MyController extends Controller
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'Nodejs nền tảng chạy và thực thi javascript trên môi trường ngoài trình duyệt';
         $title = 'Nodejs cơ bản';
-
-        return view('nodejs.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
+        $url = 'nodejs';
+        $src = 'node4';
+        return view('nodejs.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function javascript(){
         $posts = DB::table('posts')
@@ -36,8 +37,9 @@ class MyController extends Controller
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'Javascript ngôn ngữ kịch bản, cực kỳ năng động, linh hoạt';
         $title = 'Javascript cơ bản nhất';
-
-        return view('javascript.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
+        $url = 'javascript';
+        $src = 'js2';
+        return view('javascript.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function css3(){
         $posts = DB::table('posts')
@@ -47,7 +49,9 @@ class MyController extends Controller
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'CSS căn chỉnh mọi thứ trên website ,blog, làm đẹp với kiến thức CSS cơ bản nhất ';
         $title = 'CSS cơ bản nhất';
-        return view('css.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
+        $url = 'css3';
+        $src = 'css6';
+        return view('css.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function html(){
         $posts = DB::table('posts')
@@ -57,8 +61,9 @@ class MyController extends Controller
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'HTMl kiến thức cơ bản nhất về HTML, cách xây dựng phần khung blog, website với ngôn ngữ HTML';
         $title = 'HTML cơ bản nhất';
-
-        return view('html.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
+        $url = 'html';
+        $src = 'html3';
+        return view('html.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function benle(){
         $posts = DB::table('posts')
@@ -68,8 +73,9 @@ class MyController extends Controller
         // $posts = DB::table('posts')->where('cate', '=', 'benle')->get();
         $description = 'Kiến thức mà người tự học viết mã cần tìm hiểu kỹ trước kỹ bắt tay xây dựng blog, website';
         $title = 'Kiến thức cần thiết, cơ bản nhất';
-
-        return view('benle.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title]);
+        $url = 'benle';
+        $src = 'benle1';
+        return view('benle.index')->with(['posts'=> $posts, 'description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 
     //show all post
@@ -85,8 +91,9 @@ class MyController extends Controller
     public function contact(){
         $description = 'Liên hệ với tác giả';
         $title = 'Contact';
-
-        return view('contact')->with(['description'=>$description,'title'=>$title]);
+        $url = 'contact';
+        $src = 'roadmap';
+        return view('contact')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function mucdich(){
         $description = 'Blog dành cho người tự học chi tiết từ Z đến A';
