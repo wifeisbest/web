@@ -70,19 +70,20 @@
             </article>
             <ul class="relative__post">
                 <li class="relative__post-item">
-                    <a href="/node" title="nodejs" target="_blank">
-                        <img src="/img/node-detail1.png" alt="nodejs">
+                    <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title="lộ trình" target="_blank">
+                        <img src="/img/roadmap.png" alt="benle">
                     </a>
                     <h3>
-                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">Title của các bài viết, hay chính là slug</a>
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" lộ trình"target="_blank" class="relative__description">
+                        Lộ trình cơ bản nhất</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/node" title="nodejs" target="_blank">
-                        <img src="/img/js3.png" alt="nodejs">
+                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" target="_blank">
+                        <img src="/img/benle2.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">Title của các bài viết, hay chính là slug</a>
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">Mục đính mình tạo ra blog</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">

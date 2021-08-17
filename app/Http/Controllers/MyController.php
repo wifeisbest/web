@@ -12,7 +12,7 @@ class MyController extends Controller
         $posts = DB::table('posts')
                 ->orderBy('id', 'desc')
                 ->get();
-        $title = 'XZY- Học lập trình cơ bản cho người mới';
+        $title = 'XYZ- Học lập trình cơ bản cho người mới';
         $description = "Lập trình website, blog cơ bản nhất cho người mới bắt đầu,chi tiết từ Z đến A";
         return view('welcome')->with(['title'=>$title,'posts'=> $posts ,'description'=>$description]);
     }
