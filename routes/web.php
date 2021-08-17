@@ -39,3 +39,4 @@ Route::get('/contact', 'MyController@contact');
 // all post
 Route::get('/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi', 'MyController@mucdich');
 Route::get('/lo-trinh-hoc-viet-ma-xay-dung-blog-website', 'MyController@lotrinh');
+Route::get('/cach-thuc-mang-luoi-internet-hoat-dong', 'MyController@cachthuc');

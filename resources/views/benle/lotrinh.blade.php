@@ -49,8 +49,8 @@
                         viết tiếp theo nhé.
                     </p>
                     <div class="next__pre">
-                        <a href="/" class= "next"title="bên lề viết mã" target="_blank"> </a>
-                        <a href="/benle" class= "pre"title="bên lề viết mã" target="_blank"> bài tiếp theo</a>
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" class= "pre"title="Mục đính" target="_blank"> Mục đính mình tạo ra blog </a>
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" class= "next"title="lộ trình" target="_blank"> Cách thức internet hoạt động</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">

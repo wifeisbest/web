@@ -1,6 +1,6 @@
-.detail{
+/* .detail{
     margin-top: 101px;
-}
+} */
 .detail__h1{
     margin-bottom: var(--mb-4);
     font-size: var(--mb-6);
@@ -15,7 +15,7 @@ p{
 p img {
     width: 750px;
     border-radius: 8px;
-    height: 400px;
+    height: auto;
     margin: var(--mb-2) 0;
 }
 .hightline{
@@ -107,6 +107,9 @@ h2{
     display: flex;
     justify-content: space-between;
     padding: 0 0 30px 0;
+}
+.next__pre a{
+    text-decoration: underline;
 }
 /* mucdich */
 #one{

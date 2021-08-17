@@ -110,4 +110,11 @@ class MyController extends Controller
         $src = 'roadmap';
         return view('benle.lotrinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function cachthuc(){
+        $description = 'Internet hoạt động ra làm sao ? cách thức hoạt động của internet là gì ?';
+        $title = 'Cách thức internet hoạt động';
+        $url = 'cach-thuc-mang-luoi-internet-hoat-dong';
+        $src = 'internet';
+        return view('benle.cachthuc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }

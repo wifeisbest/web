@@ -25,8 +25,8 @@
     <meta property="og:image:height" content="250">
     <meta property="og:image:type" content="image/jpeg">
     <!-- Ads -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5420031609625386"
-     crossorigin="anonymous"></script>
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5420031609625386"
+     crossorigin="anonymous"></script> -->
     <!-- end ads -->
     <link rel="stylesheet" href="css/main.css" > 
     @yield('css')
