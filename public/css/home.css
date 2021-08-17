@@ -48,7 +48,9 @@
     margin-right: var(--mb-4);
     border-radius: var(--mb-1); 
 }
-
+.section__home{
+    padding-bottom: var(--mb-4);
+}
 
 /* layout */
 .bd-grid{
@@ -87,6 +89,9 @@ h4 a{
     }
     .section__title{
         margin-top: var(--mb-2);
+    }
+    .section__home{
+        padding-bottom: 3px;
     }
     
 }

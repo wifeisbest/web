@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="bd-grid">
-    
+    <div class="section__home"></div>
 
     @foreach($posts as $post)
     
