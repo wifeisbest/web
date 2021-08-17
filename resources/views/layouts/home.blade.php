@@ -25,6 +25,17 @@
     <meta property="og:image:height" content="250">
     <meta property="og:image:type" content="image/jpeg">
     <link rel="stylesheet" href="css/main.css" > 
+
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LTTFH1JP73"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-LTTFH1JP73');
+    </script>
     @yield('css')
     
     
