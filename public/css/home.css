@@ -20,7 +20,7 @@
 }
 
 .section__title{
-    margin-top: var(--mb-6);
+    margin-top: var(--mb-1);
     font-size: 27px;
     color: #222222;
 }
@@ -92,4 +92,12 @@ h4 a{
 }
 #title{
     width: 500px;
+}
+#list{
+    padding-left: var(--mb-6);
+    font-size: 15px;
+}
+#list a{
+    padding: 3px 0;
+    text-decoration: underline;
 }
