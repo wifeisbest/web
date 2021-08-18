@@ -40,3 +40,4 @@ Route::get('/contact', 'MyController@contact');
 Route::get('/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi', 'MyController@mucdich');
 Route::get('/lo-trinh-hoc-viet-ma-xay-dung-blog-website', 'MyController@lotrinh');
 Route::get('/cach-thuc-mang-luoi-internet-hoat-dong', 'MyController@cachthuc');
+Route::get('/giao-thuc-tcp-ip-http-va-https', 'MyController@giaothuc');

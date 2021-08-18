@@ -117,4 +117,13 @@ class MyController extends Controller
         $src = 'internet';
         return view('benle.cachthuc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function giaothuc(){
+        
+        $description = 'Hiếu những điều cơ bản nhất về http, tcp/ip, mô hình client-sever';
+        $title = 'Http là gì? ';
+        $url = 'giao-thuc-tcp-ip-http-va-https';
+        $src = 'http';
+        return view('benle.giaothuc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }
+

@@ -4,7 +4,7 @@
     <div class="bd-grid">
         <section class="detail">
             <article itemscope itemtype="http://schema.org/Article">
-                <h1 class="section__title detail__h1" itemprop="name">Cách thức mạng lưới internet hoạt động </h1>
+                <h1 class="section__title detail__h1" itemprop="name">Giao Thức Là Gì ?</h1>
                 <div class="pots__body" itemprop="articleBody">
                     <p>
                         Cùng hiểu về cách thức mà internet hoạt động ra sao chúng ta hãy lấy 1 ví dụ 2 bạn sinh viên A và B mới trúng tuyển đại học
