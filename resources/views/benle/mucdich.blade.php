@@ -40,48 +40,48 @@
                         Nếu bạn có quyết tâm và muốn chinh phục thì hãy bắt đầu thôi nào. Ngọn núi cao nhất nằm trong chính con người bạn.
                     </p>
                     <div class="next__pre">
-                        <a href="/benle" class= "next"title="bên lề viết mã" target="_blank"> </a>
-                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" class= "pre"title="bên lề viết mã" target="_blank"> >>>Lộ trình xây dựng blog</a>
+                        <a href="/benle" class= "next"title="bên lề viết mã" > </a>
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" class= "pre"title="bên lề viết mã" > >>>Lộ trình xây dựng blog</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span> thường xuyên dùng đến. -->
                     <div class="tag">
-                        Tag: <a href="/benle" title="bên lề viết mã" target="_blank"> Bên lề</a>
+                        Tag: <a href="/benle" title="bên lề viết mã" > Bên lề</a>
                     </div>
                 </div>
             </article>
             <ul class="relative__post">
                 <li class="relative__post-item">
-                    <a href="/node" title="nodejs" target="_blank">
+                    <a href="/node" title="nodejs" >
                         <img src="/img/node-detail1.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" Lộ trình"target="_blank" class="relative__description">Lộ trình việc viết mã xây dựng...</a>
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" Lộ trình" class="relative__description">Lộ trình việc viết mã xây dựng...</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" target="_blank">
+                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" >
                         <img src="/img/benle2.png" alt="núi">
                     </a>
                     <h3>
-                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính" class="relative__description">
                         Mục đính mình tạo ra blog</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cách thức" target="_blank">
+                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cách thức" >
                         <img src="/img/internet.png" alt="interter">
                     </a>
                     <h3>
-                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" cách thức"target="_blank" class="relative__description">
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" cách thức" class="relative__description">
                         Cách thức mạng lưới internet hoạt động</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip và http https" target="_blank">
+                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip và http https" >
                         <img src="/img/http.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức tcp/ip và http https"target="_blank" class="relative__description">
+                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức tcp/ip và http https" class="relative__description">
                         Giao thức TCP/IP và http https</a>
                     </h3>
                 </li>

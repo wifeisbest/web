@@ -25,8 +25,8 @@
                     <p>
                        Hầu như tất cả mọi thứ bạn nhìn thấy trên màn hình điện thoại, laptop ... khi bạn truy cập vào 1 website , báo mạng,... từng chi tiết hình ảnh
                        , nút bấm, màu sắc, cỡ chữ... đều liên quan đến công việc của frontend  đã làm frontend hay những việc hiện thị trên màn hình mà chúng ta thấy đều phải nắm chắc và thành thạo
-                       bộ 3 kinh điển <strong> <a href="/html" id= "one"title="cơ bản về html" target="_blank"> HTML</a>, <a href="/css3" id= "one"title="cơ bản về css" target="_blank">CSS </a>, 
-                       <a href="/javascript" id= "one"title="javascript cơ bản" target="_blank">JavaScript </a></strong> theo đó là các framwork ( là các thư viện người khác làm sẵn mình chỉ việc học cách sử dụng).
+                       bộ 3 kinh điển <strong> <a href="/html" id= "one"title="cơ bản về html"> HTML</a>, <a href="/css3" id= "one"title="cơ bản về css">CSS </a>, 
+                       <a href="/javascript" id= "one"title="javascript cơ bản">JavaScript </a></strong> theo đó là các framwork ( là các thư viện người khác làm sẵn mình chỉ việc học cách sử dụng).
                        Về bộ 3 này các bạn có thể tìm hiểu chi tiết hơn khi click vào chúng nhé.
                        
                     </p>
@@ -49,52 +49,52 @@
                         viết tiếp theo nhé.
                     </p>
                     <div class="next__pre">
-                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" class= "pre"title="Mục đính" target="_blank">
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" class= "pre"title="Mục đính">
                          Mục đính mình tạo ra blog </a>
-                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" class= "next"title="lộ trình" target="_blank"> 
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" class= "next"title="lộ trình"> 
                         Cách thức internet hoạt động</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">
-                        Tag: <a href="/benle" title="bên lề viết mã" target="_blank"> Bên lề</a>
+                        Tag: <a href="/benle" title="bên lề viết mã"> Bên lề</a>
                     </div>
                 </div>
             </article>
             <ul class="relative__post">
                 <li class="relative__post-item">
-                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip http và https" target="_blank">
+                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip http và https">
                         <img src="/img/http.png" alt="giao thức">
                     </a>
                     <h3>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip http và https"target="_blank" class="relative__description">
+                        <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip http và https" class="relative__description">
                         Giao thức TCP/IP http và https</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" target="_blank">
+                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh">
                         <img src="/img/benle2.png" alt="núi">
                     </a>
                     <h3>
-                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính" class="relative__description">
                         Mục đính mình tạo ra blog</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cách thức" target="_blank">
+                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cách thức">
                         <img src="/img/internet.png" alt="interter">
                     </a>
                     <h3>
-                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" cách thức"target="_blank" class="relative__description">
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" cách thức" class="relative__description">
                         Cách thức mạng lưới internet hoạt động</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip và http https" target="_blank">
-                        <img src="/img/http.png" alt="nodejs">
+                    <a href="/mo-hinh-client-sever" title="mô hình client sever">
+                        <img src="/img/sever.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức tcp/ip và http https"target="_blank" class="relative__description">
-                        Giao thức TCP/IP và http https</a>
+                        <a href="/mo-hinh-client-sever" title=" mô hình client sever" class="relative__description">
+                        Mô hình client sever</a>
                     </h3>
                 </li>
             </ul>

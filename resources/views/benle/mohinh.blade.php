@@ -47,51 +47,51 @@
 
                     </p>
                     <div class="next__pre">
-                        <a href="/giao-thuc-tcp-ip-http-va-https" class= "pre"title="cách thức" target="_blank">
+                        <a href="/giao-thuc-tcp-ip-http-va-https" class= "pre"title="cách thức">
                             Giao thức TCP/IP http https
                          </a>
-                        <a href="/benle" class= "next"title="bên lề viết mã" target="_blank"> bài tiếp theo</a>
+                        <a href="/benle" class= "next"title="bên lề viết mã"> bài tiếp theo</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">
-                        Tag: <a href="/benle" title="bên lề viết mã" target="_blank"> Bên lề</a>
+                        Tag: <a href="/benle" title="bên lề viết mã"> Bên lề</a>
                     </div>
                 </div>
             </article>
             <ul class="relative__post">
                 <li class="relative__post-item">
-                    <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title="lộ trình" target="_blank">
+                    <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title="lộ trình">
                         <img src="/img/roadmap.png" alt="benle">
                     </a>
                     <h3>
-                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" lộ trình"target="_blank" class="relative__description">
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" lộ trình" class="relative__description">
                         Lộ trình cơ bản nhất</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" target="_blank">
+                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh">
                         <img src="/img/benle2.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính" class="relative__description">
                         Mục đính mình tạo ra blog</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cach thuc" target="_blank">
+                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cach thuc">
                         <img src="/img/internet.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" nodejs"target="_blank" class="relative__description">
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" nodejs" class="relative__description">
                         Cách thức internet hoạt động</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức mạng" target="_blank">
+                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức mạng">
                         <img src="/img/http.png" alt="http">
                     </a>
                     <h3>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức http"target="_blank" class="relative__description">
+                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức http" class="relative__description">
                         Giao thức TCP/IP http https</a>
                     </h3>
                 </li>

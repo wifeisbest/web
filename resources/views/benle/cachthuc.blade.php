@@ -57,51 +57,51 @@
                         gồm tất cả các cơ sở hạ tầng đó.
                     </p>
                     <div class="next__pre">
-                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" class= "pre"title="lộ trình học viết mã" target="_blank">
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" class= "pre"title="lộ trình học viết mã" >
                             Lộ trình cơ bản nhất
                          </a>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" class= "next"title="Giao thức http" target="_blank"> Giao thức TCP/IP http và https</a>
+                        <a href="/giao-thuc-tcp-ip-http-va-https" class= "next"title="Giao thức http"> Giao thức TCP/IP http và https</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">
-                        Tag: <a href="/benle" title="bên lề viết mã" target="_blank"> Bên lề</a>
+                        Tag: <a href="/benle" title="bên lề viết mã" > Bên lề</a>
                     </div>
                 </div>
             </article>
             <ul class="relative__post">
                 <li class="relative__post-item">
-                    <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title="lộ trình" target="_blank">
+                    <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title="lộ trình" >
                         <img src="/img/roadmap.png" alt="benle">
                     </a>
                     <h3>
-                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" lộ trình"target="_blank" class="relative__description">
+                        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website" title=" lộ trình" class="relative__description">
                         Lộ trình cơ bản nhất</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" target="_blank">
+                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" >
                         <img src="/img/benle2.png" alt="núi">
                     </a>
                     <h3>
-                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính" class="relative__description">
                         Mục đính mình tạo ra blog</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cách thức" target="_blank">
+                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cách thức" >
                         <img src="/img/internet.png" alt="interter">
                     </a>
                     <h3>
-                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" cách thức"target="_blank" class="relative__description">
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" cách thức" class="relative__description">
                         Cách thức mạng lưới internet hoạt động</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip và http https" target="_blank">
+                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip và http https" >
                         <img src="/img/http.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức tcp/ip và http https"target="_blank" class="relative__description">
+                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức tcp/ip và http https" class="relative__description">
                         Giao thức TCP/IP và http https</a>
                     </h3>
                 </li>
