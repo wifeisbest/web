@@ -59,27 +59,30 @@
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/node" title="nodejs" target="_blank">
-                        <img src="/img/js3.png" alt="nodejs">
+                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh" target="_blank">
+                        <img src="/img/benle2.png" alt="núi">
                     </a>
                     <h3>
-                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">Title của các bài viết, hay chính là slug</a>
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">
+                        Mục đính mình tạo ra blog</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/node" title="nodejs" target="_blank">
-                        <img src="/img/html3.png" alt="nodejs">
+                    <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cách thức" target="_blank">
+                        <img src="/img/internet.png" alt="interter">
                     </a>
                     <h3>
-                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">Title của các bài viết, hay chính là slug</a>
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" cách thức"target="_blank" class="relative__description">
+                        Cách thức mạng lưới internet hoạt động</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/node" title="nodejs" target="_blank">
-                        <img src="/img/css3.png" alt="nodejs">
+                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức tcp/ip và http https" target="_blank">
+                        <img src="/img/http.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">Title của các bài viết, hay chính là slug</a>
+                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức tcp/ip và http https"target="_blank" class="relative__description">
+                        Giao thức TCP/IP và http https</a>
                     </h3>
                 </li>
             </ul>

@@ -83,7 +83,8 @@
                         <img src="/img/benle2.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">Mục đính mình tạo ra blog</a>
+                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính"target="_blank" class="relative__description">
+                        Mục đính mình tạo ra blog</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
@@ -91,7 +92,8 @@
                         <img src="/img/internet.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" nodejs"target="_blank" class="relative__description">Cách thức internet hoạt động</a>
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" nodejs"target="_blank" class="relative__description">
+                        Cách thức internet hoạt động</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
@@ -99,7 +101,8 @@
                         <img src="/img/css3.png" alt="nodejs">
                     </a>
                     <h3>
-                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">Title của các bài viết, hay chính là slug</a>
+                        <a href="/node" title=" nodejs"target="_blank" class="relative__description">
+                        bài tiếp theo</a>
                     </h3>
                 </li>
             </ul>

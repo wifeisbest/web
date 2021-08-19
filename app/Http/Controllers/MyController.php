@@ -125,5 +125,13 @@ class MyController extends Controller
         $src = 'http';
         return view('benle.giaothuc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function mohinh(){
+        
+        $description = 'cách thức hoạt động cơ bản nhất của mô hình client sever mà tất cả người học viêt mã đều cần phải biết';
+        $title = 'Mô hình client sever ';
+        $url = 'mo-hinh-client-sever';
+        $src = 'sever';
+        return view('benle.mohinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }
 
