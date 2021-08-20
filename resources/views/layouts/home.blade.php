@@ -25,6 +25,7 @@
     <meta property="og:image:width" content="250">
     <meta property="og:image:height" content="250">
     <meta property="og:image:type" content="image/jpeg">
+    <meta http-equiv="REFRESH" content="1800">
     <link rel="stylesheet" href="css/main.css" > 
 
 

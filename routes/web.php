@@ -37,8 +37,12 @@ Route::get('/detail', 'MyController@detail');
 Route::get('/contact', 'MyController@contact');
 
 // all post
+// benle
 Route::get('/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi', 'MyController@mucdich');
 Route::get('/lo-trinh-hoc-viet-ma-xay-dung-blog-website', 'MyController@lotrinh');
 Route::get('/cach-thuc-mang-luoi-internet-hoat-dong', 'MyController@cachthuc');
 Route::get('/giao-thuc-tcp-ip-http-va-https', 'MyController@giaothuc');
 Route::get('/mo-hinh-client-sever', 'MyController@mohinh');
+
+// html
+Route::get('/website-la-gi', 'MyController@website');

@@ -23,7 +23,7 @@
         
     @endforeach
     <div id="list">
-            <h3>Danh sach bài viết</h3>
+            <h3>Danh sách bài viết</h3>
         <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi">Mục đính mình tao ra blog này là gì</a>
         <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">Lộ trình cơ bản nhất</a>
         <a href="/cach-thuc-mang-luoi-internet-hoat-dong">Cách thức mạng lưới internet hoạt động</a>

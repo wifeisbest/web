@@ -95,6 +95,8 @@ class MyController extends Controller
         $src = 'roadmap';
         return view('contact')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    //================benle===================
+
     public function mucdich(){
         $description = 'Blog dành cho người tự học chi tiết từ Z đến A';
         $title = 'Mục đích mình tạo ra blog này để làm gi ?';
@@ -132,6 +134,16 @@ class MyController extends Controller
         $url = 'mo-hinh-client-sever';
         $src = 'sever';
         return view('benle.mohinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    //=======================html================
+
+    public function website(){
+       
+        $description = 'Những khái niệm cơ bản về website, webpage , Webapp là gì ? ';
+        $title = 'Website là gì ? ';
+        $url = 'website-la-gi';
+        $src = 'website';
+        return view('html.website')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
 
