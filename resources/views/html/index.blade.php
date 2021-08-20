@@ -22,9 +22,7 @@
         </section>  
     
     @endforeach
-</div>
-@endsection
-<div id="list">
+    <div id="list">
             <h3>Danh sách bài viết</h3>
         <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi">Mục đính mình tao ra blog này là gì</a>
         <!-- <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">Lộ trình cơ bản nhất</a>
@@ -36,6 +34,9 @@
         <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">1. Lộ trình học viết mã</a> -->
     
     </div>
+</div>
+@endsection
+
 @section('css')
 <link rel="stylesheet" href="css/header.css">
 <link rel="stylesheet" href="css/home.css">
