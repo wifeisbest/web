@@ -13,7 +13,10 @@
                 </ul>
             </div>
             <div class="nav__toggle" id="nav-toggle">
-                <i class='bx bx-menu'></i>
+                <div class="nav__toggle--menu"></div>
+                <div class="nav__toggle--menu"></div>
+                <div class="nav__toggle--menu"></div>
+                <!-- <i class='bx bx-menu'></i> -->
             </div>
         </nav>
 </header>  
