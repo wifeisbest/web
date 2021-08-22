@@ -45,6 +45,7 @@
 }
 .section__img{
     width: 140px;
+    height: 129px;
     margin-right: var(--mb-4);
     border-radius: var(--mb-1); 
 }

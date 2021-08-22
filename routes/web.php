@@ -46,3 +46,4 @@ Route::get('/mo-hinh-client-sever', 'MyController@mohinh');
 
 // html
 Route::get('/website-la-gi', 'MyController@website');
+Route::get('/html-la-gi', 'MyController@html1');

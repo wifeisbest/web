@@ -20,7 +20,7 @@ class MyController extends Controller
     public function nodejs(){
         $posts = DB::table('posts')
                 ->where('cate', '=', 'nodejs')
-                ->orderBy('id', 'desc')
+                ->orderBy('id', 'asc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'Nodejs nền tảng chạy và thực thi javascript trên môi trường ngoài trình duyệt';
@@ -32,7 +32,7 @@ class MyController extends Controller
     public function javascript(){
         $posts = DB::table('posts')
                 ->where('cate', '=', 'javascript')
-                ->orderBy('id', 'desc')
+                ->orderBy('id', 'asc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'Javascript ngôn ngữ kịch bản, cực kỳ năng động, linh hoạt';
@@ -44,7 +44,7 @@ class MyController extends Controller
     public function css3(){
         $posts = DB::table('posts')
                 ->where('cate', '=', 'css')
-                ->orderBy('id', 'desc')
+                ->orderBy('id', 'asc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'CSS căn chỉnh mọi thứ trên website ,blog, làm đẹp với kiến thức CSS cơ bản nhất ';
@@ -56,7 +56,7 @@ class MyController extends Controller
     public function html(){
         $posts = DB::table('posts')
                 ->where('cate', '=', 'html')
-                ->orderBy('id', 'desc')
+                ->orderBy('id', 'asc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'html')->get();
         $description = 'HTMl kiến thức cơ bản nhất về HTML, cách xây dựng phần khung blog, website với ngôn ngữ HTML';
@@ -68,7 +68,7 @@ class MyController extends Controller
     public function benle(){
         $posts = DB::table('posts')
                 ->where('cate', '=', 'benle')
-                ->orderBy('id', 'desc')
+                ->orderBy('id', 'asc')
                 ->get();
         // $posts = DB::table('posts')->where('cate', '=', 'benle')->get();
         $description = 'Kiến thức mà người tự học viết mã cần tìm hiểu kỹ trước kỹ bắt tay xây dựng blog, website';
@@ -144,6 +144,13 @@ class MyController extends Controller
         $url = 'website-la-gi';
         $src = 'website';
         return view('html.website')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function html1(){ 
+        $description = 'Cơ bản nhất về ngôn ngữ đánh dấu siêu văn bản HTML, thứ cơ bản nhất để tạo nên 1 website';
+        $title = 'HTML là gì ? ';
+        $url = 'html-la-gi';
+        $src = 'html1';
+        return view('html.html')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
 

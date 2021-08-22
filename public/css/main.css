@@ -55,3 +55,15 @@ a{
     display: block;
 }
 
+.code{
+    color: var(--second-color);
+}
+.ul{
+    list-style: disc;
+    padding-left: var(--mb-3);
+    margin-left: var(--mb-5);
+    font-size: var(--mb-2);
+}
+.ul li{
+    padding: 5px 0;
+}
