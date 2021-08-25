@@ -1,4 +1,7 @@
-﻿https://xyzabc.xyz/
+﻿https://xyzabc.xyz
+http://xyzabc.xyz
+https://www.xyzabc.xyz
+http://www.xyzabc.xyz
 https://xyzabc.xyz/nodejs
 https://xyzabc.xyz/javascript
 https://xyzabc.xyz/css3

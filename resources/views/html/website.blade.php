@@ -12,8 +12,7 @@
                     </p>
                     <p>
                         <strong>URL: </strong> Là 1 chuỗi ký tự văn bản giúp bạn có thể tìm thấy trang web 
-                        ,video, hình ảnh,..trên internet, ví dụ để đến được với bài viết này 
-                        thì  " https://xyzabc.xyz/website-la-gi " chính là đường dẫn là con đường để bạn đến với bài viết này.
+                        ,video, hình ảnh,..trên internet.
                     </p>
                     <p>
                         <strong>HTTP: </strong>Khi bạn đã có url thông qua giao thức http bạn sẽ nhận được 
@@ -113,8 +112,8 @@
                         <img src="/img/html1.png" alt="http">
                     </a>
                     <h3>
-                        <a href="/html-la-gi" title=" html" class="relative__description">
-                        HTML là gì</a>
+                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" html" class="relative__description">
+                        Giao thức TCP/IP http https</a>
                     </h3>
                 </li>
             </ul>
