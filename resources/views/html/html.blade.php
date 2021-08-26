@@ -97,7 +97,7 @@
                         <a href="/website-la-gi" class= "pre"title="website là gì ?">
                             Website là gì ?
                          </a>
-                        <a href="/" class= "next"title="bên lề viết mã"> bài tiếp theo</a>
+                        <!-- <a href="/" class= "next"title="bên lề viết mã"> bài tiếp theo</a> -->
                     </div>
                     <!-- <span class="hightline">exports</span>  -->
                     <div class="tag">

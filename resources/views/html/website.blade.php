@@ -91,7 +91,7 @@
                 </li>
                 <li class="relative__post-item">
                     <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh">
-                        <img src="/img/benle2.png" alt="nodejs">
+                        <img src="/img/benle2.png" alt="muc dich">
                     </a>
                     <h3>
                         <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính" class="relative__description">
@@ -100,22 +100,22 @@
                 </li>
                 <li class="relative__post-item">
                     <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cach thuc">
-                        <img src="/img/internet.png" alt="nodejs">
+                        <img src="/img/internet.png" alt="internet">
                     </a>
                     <h3>
-                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" nodejs" class="relative__description">
+                        <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title=" internet" class="relative__description">
                         Cách thức internet hoạt động</a>
                     </h3>
                 </li>
-                <li class="relative__post-item">
-                    <a href="/html-la-gi" title="giao thức mạng">
+                <!-- <li class="relative__post-item">
+                    <a href="/contact" title="giao thức mạng">
                         <img src="/img/html1.png" alt="http">
                     </a>
                     <h3>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" html" class="relative__description">
+                        <a href="/contact" title=" html" class="relative__description">
                         Giao thức TCP/IP http https</a>
                     </h3>
-                </li>
+                </li> -->
             </ul>
         </section>  
     </div>
