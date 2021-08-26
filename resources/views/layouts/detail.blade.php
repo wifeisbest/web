@@ -7,7 +7,7 @@
     <link rel="icon" type="image/gif" href="img/favicon.png">
 
     <meta content="index, follow" name="robots">
-
+    <meta name='dmca-site-verification' content='Rzc1dkFQZnhCQlRsV0RLN1dwNzFOUT090' />
     <meta content="text/html ; charset=UTF-8" http-equiv="Content-Type">
     <meta name="description" content="{{$description}}">
 
