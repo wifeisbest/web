@@ -25,7 +25,7 @@
     <meta property="og:image:width" content="250">
     <meta property="og:image:height" content="250">
     <meta property="og:image:type" content="image/jpeg">
-    <meta http-equiv="REFRESH" content="1800">
+    
     <!-- Ads -->
     <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5420031609625386"
      crossorigin="anonymous"></script> -->
