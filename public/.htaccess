@@ -19,7 +19,5 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 
-    RewriteBase /
-    RewriteCond %{HTTP_HOST} !^xyzabc.xyz$ [NC]
-    RewriteRule ^(.*)$ http://xyzabc.xyz/$1 [L,R=301]
+    
 </IfModule>
