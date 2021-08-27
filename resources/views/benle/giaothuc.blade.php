@@ -59,7 +59,7 @@
                     <div class="next__pre">
                         <a href="/cach-thuc-mang-luoi-internet-hoat-dong" class= "pre"title="cách thức" >
                             Cách thức internet hoạt động
-                         </a>
+                        </a>
                         <a href="/mo-hinh-client-sever" class= "next"title="bên lề viết mã" > Mô hình client sever</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->

@@ -43,6 +43,7 @@ Route::get('/lo-trinh-hoc-viet-ma-xay-dung-blog-website', 'MyController@lotrinh'
 Route::get('/cach-thuc-mang-luoi-internet-hoat-dong', 'MyController@cachthuc');
 Route::get('/giao-thuc-tcp-ip-http-va-https', 'MyController@giaothuc');
 Route::get('/mo-hinh-client-sever', 'MyController@mohinh');
+Route::get('/cac-buoc-khi-ban-da-co-1-website', 'MyController@cacbuoc');
 
 // html
 Route::get('/website-la-gi', 'MyController@website');

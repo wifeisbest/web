@@ -135,6 +135,14 @@ class MyController extends Controller
         $src = 'sever';
         return view('benle.mohinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function cacbuoc(){
+        
+        $description = 'Khi bạn đã có 1 website làm thế nào để mọi người biết đến sản phẩm của bạn, bạn có nhiều người truy cập hơn';
+        $title = 'Khi đã có website ';
+        $url = 'cac-buoc-khi-ban-da-co-1-website';
+        $src = 'daco';
+        return view('benle.cacbuoc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
     //=======================html================
 
     public function website(){

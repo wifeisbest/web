@@ -50,7 +50,8 @@
                     </p>
                     <div class="next__pre">
                         <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" class= "pre"title="Mục đính">
-                         Mục đính mình tạo ra blog </a>
+                         Mục đính mình tạo ra blog 
+                        </a>
                         <a href="/cach-thuc-mang-luoi-internet-hoat-dong" class= "next"title="lộ trình"> 
                         Cách thức internet hoạt động</a>
                     </div>
