@@ -97,7 +97,9 @@
                         <a href="/website-la-gi" class= "pre"title="website là gì ?">
                             Website là gì ?
                          </a>
-                        <!-- <a href="/" class= "next"title="bên lề viết mã"> bài tiếp theo</a> -->
+                        <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html" class= "next"title="hoạt động của các thẻ html"> 
+                            Hoạt động hiển thị của các thẻ
+                        </a>
                     </div>
                     <!-- <span class="hightline">exports</span>  -->
                     <div class="tag">
@@ -115,7 +117,7 @@
                         Lộ trình cơ bản nhất</a>
                     </h3>
                 </li>
-                <li class="relative__post-item">
+                <!-- <li class="relative__post-item">
                     <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh">
                         <img src="/img/benle2.png" alt="nodejs">
                     </a>
@@ -123,7 +125,7 @@
                         <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính" class="relative__description">
                         Mục đính mình tạo ra blog</a>
                     </h3>
-                </li>
+                </li> -->
                 <li class="relative__post-item">
                     <a href="/cach-thuc-mang-luoi-internet-hoat-dong" title="cach thuc">
                         <img src="/img/internet.png" alt="nodejs">

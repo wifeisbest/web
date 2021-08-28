@@ -48,3 +48,4 @@ Route::get('/cac-buoc-khi-ban-da-co-1-website', 'MyController@cacbuoc');
 // html
 Route::get('/website-la-gi', 'MyController@website');
 Route::get('/html-la-gi', 'MyController@html1');
+Route::get('/hoat-dong-cua-cac-the-trong-tai-lieu-html', 'MyController@hoatdong');

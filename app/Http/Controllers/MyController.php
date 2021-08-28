@@ -154,11 +154,20 @@ class MyController extends Controller
         return view('html.website')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function html1(){ 
+        
         $description = 'Cơ bản nhất về ngôn ngữ đánh dấu siêu văn bản HTML, thứ cơ bản nhất để tạo nên 1 website';
         $title = 'HTML là gì ? ';
         $url = 'html-la-gi';
         $src = 'html1';
         return view('html.html')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function hoatdong(){ 
+        
+        $description = 'Hiếu được cơ bản nhất cách hiển thị và hoạt động của các thẻ trong tài liệu html';
+        $title = 'Hoạt động và cách hiển thị thẻ html';
+        $url = 'hoat-dong-cua-cac-the-trong-tai-lieu-html';
+        $src = 'html6';
+        return view('html.hoatdong')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
 
