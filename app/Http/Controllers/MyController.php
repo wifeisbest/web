@@ -169,5 +169,13 @@ class MyController extends Controller
         $src = 'html6';
         return view('html.hoatdong')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function thehtml(){ 
+        
+        $description = 'Các thẻ trong tài liệu html được phân loại ra sao ? Chúng sinh ra để làm gì ? Hiểu về thẻ html cơ bản nhất.';
+        $title = 'Thẻ HTML cơ bản nhất';
+        $url = 'the-html-co-ban-nhat';
+        $src = 'html4';
+        return view('html.thehtml')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }
 

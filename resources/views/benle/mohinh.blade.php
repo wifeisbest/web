@@ -50,7 +50,7 @@
                         <a href="/giao-thuc-tcp-ip-http-va-https" class= "pre"title="cách thức">
                             Giao thức TCP/IP http https
                          </a>
-                        <a href="/benle" class= "next"title="bên lề viết mã"> bài tiếp theo</a>
+                        <a href="/website-la-gi" class= "next"title="website là gì "> Website là gì ?</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">

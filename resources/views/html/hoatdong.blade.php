@@ -74,7 +74,7 @@
                         <a href="/html-la-gi" class= "pre"title="html là gì">
                             HTMl là gì ? 
                          </a>
-                        <!-- <a href="/html-la-gi" class= "next"title="bên lề viết mã"> HTMl là gì ?</a> -->
+                        <a href="/the-html-co-ban-nhat" class= "next"title="Thẻ HTML cơ bản nhất"> Thẻ html cơ bản</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">

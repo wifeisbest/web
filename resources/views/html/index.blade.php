@@ -26,6 +26,8 @@
             <h3>Danh sách bài viết</h3>
         <a href="/website-la-gi">Website là gì ?</a>
         <a href="/html-la-gi">HTML là gì ?</a>
+        <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html">Hoạt động của các thẻ trong tài liệu HTMl</a>
+        <a href="/the-html-co-ban-nhat">Thẻ Html cơ bản nhất</a>
         <!-- <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">Lộ trình cơ bản nhất</a> -->
         <!-- <a href="/cach-thuc-mang-luoi-internet-hoat-dong">Cách thức mạng lưới internet hoạt động</a>
         <a href="/giao-thuc-tcp-ip-http-va-https">Giao thức TCP/Ip http và https</a>
