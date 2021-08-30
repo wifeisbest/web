@@ -14,9 +14,9 @@
                     <h2 class="section__h2"> Thuộc Tính </h2>
                     
                     <p>
-                        Thuộc tính sinh ra là để cung cấp thông tin bổ sung cho thẻ HTMl, với nhiệm vụ là bổ sunng cho thẻ HTMl , chúng ta thường 
-                        hay xem nhẹ vai trò của thuộc tính , nhưng trong thực tế nó lại là thành phần rất quan trọng của mỗi thẻ, có những thẻ mà phải 
-                        có những thuộc tính bắt buộc phải có, không có thuộc tính đi cùng thì thẻ đó không thể nào hoạt động đúng được. Vậy thuộc tính là rất 
+                        Thuộc tính sinh ra là để cung cấp thông tin bổ sung cho thẻ HTMl, với nhiệm vụ là bổ sung cho thẻ HTMl , chúng ta thường 
+                        hay xem nhẹ vai trò của thuộc tính , nhưng trong thực tế nó lại là thành phần rất quan trọng của mỗi thẻ, có những thẻ mà bắt buộc phải  
+                        có những thuộc tính đi cùng, không có thuộc tính đi cùng thì thẻ đó không thể nào hoạt động đúng được. Vậy thuộc tính là rất 
                         quan trọng nhé các bạn.
 
 
@@ -27,10 +27,10 @@
                     </p>
                     <p>
                         <strong>Tất cả các thẻ HTML đều có thể có thuộc tính</strong> điều này có ý nghĩa là thẻ nào chúng ta cũng có thể đặt được thuộc tính 
-                        vào , tùy theo mục đính và ý nghĩa của thuộc tính đó.
+                        vào , tùy theo mục đính và ý nghĩa của thuộc tính đó. Và có những thẻ thì không cần thuộc tính miêu tả thêm.
                     </p>
                     <p>
-                        <strong>Các thuộc tính thì luôn nằm trong thẻ mở</strong> Khoogn ai để thuộc tính trong thẻ đóng cả nó ko có ý nghĩa ví dụ :
+                        <strong>Các thuộc tính thì luôn nằm trong thẻ mở</strong> Không ai để thuộc tính trong thẻ đóng cả nó ko có ý nghĩa ví dụ :
                         ta có thẻ h1  
                         <span class="code"> &lt;h1 &gt;... &lt;/h1 &gt; </span> thì 
                         <span class="code"> &lt;h1 &gt;</span> đây là thẻ mở ,và đây là thẻ đóng
@@ -38,7 +38,7 @@
                     </p>
                     <p>
                         <strong>Thuộc tính thì luôn đi theo cặp name="value"</strong> trong đó <b>name</b> là tên của thuộc tính và <b>value</b> là giá trị 
-                        của thuộc tính. Vi dụ <b>title = "Đây là thuộc tính title"</b>. Tên thuộc tính là <i>title</i> và nội dung của thuộc tính là 
+                        của thuộc tính. Ví dụ <b>title = "Đây là thuộc tính title"</b>. Tên thuộc tính là <i>title</i> và nội dung của thuộc tính là 
                         <i>Đây là thuộc tính title</i>. Rất đơn giản phải không các bạn.
                     </p>
                     <h2 class="section__h2"> Ví dụ </h2>
@@ -46,7 +46,7 @@
                         <img src="/img/thuoctinh.png" alt="thẻ html  " > 
                     </p>
                     <p>
-                        Trong ví trên phần code chúng ta viết thì thẻ <b>a</b> là thẻ liên kết,  có 2 thuộc tính là <b>href</b> và <b>title</b> 
+                        Trong ví trên phần code chúng ta viết thì thẻ <b>a</b> là thẻ liên kết thẻ này dẫn chúng ta đến 1 nơi khác,  có 2 thuộc tính là <b>href</b> và <b>title</b> 
                         nội dung của thẻ <b>a</b> là "Click here"  còn nội dung của <span class="hightline">thuộc tính  </span> <b>href</b> là "https://xyzabc.xyz" 
                         nội dung của <span class="hightline"> thuộc tính </span> <b>title</b> là "Trang chủ" . Khi chạy trên trình duyệt khi di chuột 
                         vào nội dung của thẻ <b>a</b> lúc này thuộc tính <b>title</b> hoạt động hiện thị lên cho chúng ta thấy nội dung của nó. Trong ví dụ này chúng ta 
