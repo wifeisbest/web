@@ -170,12 +170,20 @@ class MyController extends Controller
         return view('html.hoatdong')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function thehtml(){ 
-        
         $description = 'Các thẻ trong tài liệu html được phân loại ra sao ? Chúng sinh ra để làm gì ? Hiểu về thẻ html cơ bản nhất.';
         $title = 'Thẻ HTML cơ bản nhất';
         $url = 'the-html-co-ban-nhat';
         $src = 'html4';
         return view('html.thehtml')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function thuoctinh(){ 
+        
+        $description = 'Thuộc tính trong mỗi thẻ html rất quan trọng và thường hay gây nhầm lẫn cho các bạn mới, chúng ta cùng đi phân tích các khái niệm cơ bản nhất 
+        của khái niệm này nhé';
+        $title = 'Thuộc tính thẻ HTML';
+        $url = 'thuoc-tinh-trong-the-html';
+        $src = 'html2';
+        return view('html.thuoctinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
 

@@ -48,7 +48,7 @@
                         <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html" class= "pre"title="html là gì">
                             Hoạt động của thẻ HTML
                          </a>
-                        <!-- <a href="/html-la-gi" class= "next"title="bên lề viết mã"> HTMl là gì ?</a> -->
+                        <a href="/thuoc-tinh-trong-the-html" class= "next"title="Thuộc tính "> Thuộc tính thẻ HTML</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">
