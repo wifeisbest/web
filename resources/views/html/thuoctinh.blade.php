@@ -52,6 +52,7 @@
                         vào nội dung của thẻ <b>a</b> lúc này thuộc tính <b>title</b> hoạt động hiện thị lên cho chúng ta thấy nội dung của nó. Trong ví dụ này chúng ta 
                         kết luận được như sau : Đối với thẻ <b>a</b> thì <span class="hightline">thuộc tính</span>  <b>href</b> bắt buộc phải có 
                         thuộc tính <b>title</b> có cũng được không có cũng không sao, có thì nó miêu tả thêm cho thẻ <b>a</b> còn không có thì cũng không sao cả.
+                        Thuộc tính thì luôn nằm trong thẻ mở.
 
 
                     </p>

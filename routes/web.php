@@ -51,3 +51,8 @@ Route::get('/html-la-gi', 'MyController@html1');
 Route::get('/hoat-dong-cua-cac-the-trong-tai-lieu-html', 'MyController@hoatdong');
 Route::get('/the-html-co-ban-nhat', 'MyController@thehtml');
 Route::get('/thuoc-tinh-trong-the-html', 'MyController@thuoctinh');
+
+// javascript
+
+
+Route::get('/ngon-ngu-lap-trinh-javascript', 'MyController@ngonngu');

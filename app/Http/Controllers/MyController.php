@@ -177,13 +177,23 @@ class MyController extends Controller
         return view('html.thehtml')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function thuoctinh(){ 
-        
+       
         $description = 'Thuộc tính trong mỗi thẻ html rất quan trọng và thường hay gây nhầm lẫn cho các bạn mới, chúng ta cùng đi phân tích các khái niệm cơ bản nhất 
         của khái niệm này nhé';
         $title = 'Thuộc tính thẻ HTML';
         $url = 'thuoc-tinh-trong-the-html';
         $src = 'html2';
         return view('html.thuoctinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    //========================== javascript========================
+
+    public function ngonngu(){ 
+        
+        $description = 'Ngôn ngữ lập trình là gì ? Nhũng điều cơ bản nhất về ngôn ngữ lập trình mà bất kỳ ai học viết mã đều cần biết';
+        $title = 'Ngôn ngữ lập trình';
+        $url = 'ngon-ngu-lap-trinh-javascript';
+        $src = 'js6';
+        return view('javascript.ngonngu')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
 

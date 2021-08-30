@@ -90,12 +90,12 @@
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title="muc dinh">
-                        <img src="/img/benle2.png" alt="muc dich">
+                    <a href="/ngon-ngu-lap-trinh-javascript" title="ngôn ngữ">
+                        <img src="/img/js6.png" alt="ngôn ngữ">
                     </a>
                     <h3>
-                        <a href="/muc-dinh-ma-minh-tao-ra-blog-nay-la-gi" title=" mục đính" class="relative__description">
-                        Mục đính mình tạo ra blog</a>
+                        <a href="/ngon-ngu-lap-trinh-javascript" title=" ngôn ngữ" class="relative__description">
+                        Ngôn ngữ Lập trình</a>
                     </h3>
                 </li>
                 <li class="relative__post-item">
