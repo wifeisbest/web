@@ -188,12 +188,19 @@ class MyController extends Controller
     //========================== javascript========================
 
     public function ngonngu(){ 
-        
         $description = 'Ngôn ngữ lập trình là gì ? Nhũng điều cơ bản nhất về ngôn ngữ lập trình mà bất kỳ ai học viết mã đều cần biết';
         $title = 'Ngôn ngữ lập trình';
         $url = 'ngon-ngu-lap-trinh-javascript';
         $src = 'js6';
         return view('javascript.ngonngu')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function bien(){ 
+        
+        $description = 'Những điều cơ bản nhất về biến trong mọi ngôn ngữ lập trình và đặc trưng cơ bản của biến trong javascript';
+        $title = 'Biến và biểu thức toán học';
+        $url = 'bien-va-bieu-thuc-toan-hoc-trong-javascript';
+        $src = 'js5';
+        return view('javascript.bien')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
 

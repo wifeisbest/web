@@ -25,6 +25,7 @@
     <div id="list">
             <h3>Danh sách bài viết</h3>       
         <a href="/ngon-ngu-lap-trinh-javascript" title="javascript "> Ngôn ngữ lập trình</a>
+        <a href="/bien-va-bieu-thuc-toan-hoc-trong-javascript" title="javascript "> Biến và biểu thức toán học</a>
         
     
     </div>

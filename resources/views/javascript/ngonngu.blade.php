@@ -56,13 +56,15 @@
                        chúng đều có những điểm chung, và mình tìm hiểu chia sẻ cùng các bạn trong bài viết này, nếu bạn thấy chưa chính xác hoặc 
                        cần bổ sung hay liên hệ mình để mình hoàn thiện thêm. Cảm ơn các bạn đã đọc.
                     </p>
-                    <!-- <div class="next__pre">
-                        <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html" class= "pre"title="html là gì">
+                    <div class="next__pre">
+                        <!-- <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html" class= "pre"title="html là gì">
                             Hoạt động của thẻ HTML
+                         </a> -->
+                        <a href="/bien-va-bieu-thuc-toan-hoc-trong-javascript" class= "next"title="biến trong js">
+                         Biến và biểu thức toán học
                          </a>
-                        <a href="/html-la-gi" class= "next"title="bên lề viết mã"> HTMl là gì ?</a>
                     </div> -->
-                    <!-- <span class="hightline">require, import, exports</span>  -->
+                    <!-- <span class="hightline">require, import, exports</span> 
                     <div class="tag">
                         Tag: <a href="/javascript" title="javascript"> Javascript</a>
                     </div>
