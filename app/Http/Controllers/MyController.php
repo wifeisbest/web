@@ -185,7 +185,7 @@ class MyController extends Controller
         $src = 'html2';
         return view('html.thuoctinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
-    //========================== javascript========================
+    //==========================  javascript  ========================
 
     public function ngonngu(){ 
         $description = 'Ngôn ngữ lập trình là gì ? Nhũng điều cơ bản nhất về ngôn ngữ lập trình mà bất kỳ ai học viết mã đều cần biết';
@@ -202,5 +202,16 @@ class MyController extends Controller
         $src = 'js5';
         return view('javascript.bien')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    //===========================  Nodejs  ==================================
+    
+    public function node(){ 
+        
+        $description = 'Nodejs cơ bản nhất, những điều cơ bản nhất về nodejs';
+        $title = 'Nodejs cơ bản';
+        $url = 'nodejs-la-gi';
+        $src = 'node3';
+        return view('nodejs.node')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+
 }
 

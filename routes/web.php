@@ -57,3 +57,11 @@ Route::get('/thuoc-tinh-trong-the-html', 'MyController@thuoctinh');
 
 Route::get('/ngon-ngu-lap-trinh-javascript', 'MyController@ngonngu');
 Route::get('/bien-va-bieu-thuc-toan-hoc-trong-javascript', 'MyController@bien');
+
+
+
+
+//Nodejs
+Route::get('/nodejs-la-gi', 'MyController@node');
+
+
