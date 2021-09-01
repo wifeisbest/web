@@ -52,6 +52,11 @@
                         </ul>
                     </p>
                     <p>
+                        <b>Lưu ý nhỏ :</b> Kết quả của các phép toán ( <b>Tương đương , So sánh , Logic</b> ) luôn cho chúng ta 2 giá trị đúng 
+                        hoặc sai.
+                    </p>
+                    <p>
+
                         Trên đây là các biểu thức được sử dụng trong javascript mỗi một biểu thức sẽ cho chúng ta các kết quả khác nhau ,
                         từ các kết quả này chúng ta sẽ điều khiển để cho máy tính cần biết việc gì cần làm tiếp theo. Chúng ta sẽ sẽ dụng và hiểu các 
                         biểu thức này trong các bài viết tiếp theo nhé. Trong bài viết này là chia sẻ đặc thù của biến trong javascript, trong quá trình 
@@ -62,6 +67,9 @@
                     <div class="next__pre">
                         <a href="/ngon-ngu-lap-trinh-javascript" class= "pre"title="Ngôn ngữ lập trình">
                             Ngôn ngữ lập trình
+                         </a>
+                         <a href="/kieu-gia-tri-cua-bien-trong-javascript" class= "next"title="Kiểu giá trị của biến">
+                           Kiểu giá trị của biến
                          </a>
                          
                     </div> 

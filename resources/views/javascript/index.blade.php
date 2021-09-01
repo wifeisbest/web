@@ -26,6 +26,7 @@
             <h3>Danh sách bài viết</h3>       
         <a href="/ngon-ngu-lap-trinh-javascript" title="javascript "> Ngôn ngữ lập trình</a>
         <a href="/bien-va-bieu-thuc-toan-hoc-trong-javascript" title="javascript "> Biến và biểu thức toán học</a>
+        <a href="/kieu-gia-tri-cua-bien-trong-javascript" title="javascript "> Kiểu giá trị của biến</a>
         
     
     </div>

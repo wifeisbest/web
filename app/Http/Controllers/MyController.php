@@ -195,12 +195,20 @@ class MyController extends Controller
         return view('javascript.ngonngu')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function bien(){ 
-        
+       
         $description = 'Những điều cơ bản nhất về biến trong mọi ngôn ngữ lập trình và đặc trưng cơ bản của biến trong javascript';
         $title = 'Biến và biểu thức toán học';
         $url = 'bien-va-bieu-thuc-toan-hoc-trong-javascript';
         $src = 'js5';
         return view('javascript.bien')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function kieu(){ 
+        
+        $description = 'Biến trong javascript lưu trữ những loại giá trị nào , chúng ta cần quan tâm đến kiểu của giá trị, hay kiểu của biến';
+        $title = 'Kiểu giá trị của biến';
+        $url = 'kieu-gia-tri-cua-bien-trong-javascript';
+        $src = 'js1';
+        return view('javascript.kieu')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     //===========================  Nodejs  ==================================
     
