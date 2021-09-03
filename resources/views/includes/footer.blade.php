@@ -11,7 +11,13 @@
                     <h1 class="footer__title"><a href="/">XYZABC-Trang Chủ</a></h1>
                     <h5 class="copyright">&#169; 2021 copyright all reserved</h5>
                 </div>
-                
+                <!-- <div class="social">
+            
+                    <a href="#"> <img class= "social__img" src="/img/facebook.png" alt="facebook" ></a>
+                    <a href="#"> <img class= "social__img" src="/img/twitter.png" alt="twitter" ></a>
+                    <a href="#"> <img class= "social__img" src="/img/gmail.png" alt="twitter" ></a>
+                    
+                 </div> -->
                 <div class="footer__social">
                     <a href="/contact">Liên hệ với mình</a>
                     <h4>Blog được thiết kế theo mẫu <a href="https://laptrinhcuocsong.com/">laptrinhcuocsong.com</a> </h4>

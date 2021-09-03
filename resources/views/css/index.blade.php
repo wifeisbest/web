@@ -3,7 +3,8 @@
 @section('content')
 
 <div class="bd-grid">
-    
+    <h4>Bạn có thể xem <a href="#list">chi tiết danh sách tại đây</a> </h4>
+
 
     @foreach($posts as $post)
     
@@ -22,6 +23,13 @@
         </section>  
     
     @endforeach
+    <div id="list">
+            <h3>Danh sách bài viết</h3>
+        <a href="/css-co-ban-cho-nguoi-moi-bat-dau">CSS cơ bản</a>
+        
+        
+    
+    </div>
 </div>
 @endsection
 

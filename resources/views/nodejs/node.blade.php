@@ -85,12 +85,12 @@
                     </h3>
                 </li>
                 <li class="relative__post-item">
-                    <a href="/giao-thuc-tcp-ip-http-va-https" title="giao thức mạng">
-                        <img src="/img/http.png" alt="http">
+                    <a href="/css-co-ban-cho-nguoi-moi-bat-dau" title="css cơ bản">
+                        <img src="/img/css1.png" alt="http">
                     </a>
                     <h3>
-                        <a href="/giao-thuc-tcp-ip-http-va-https" title=" giao thức http" class="relative__description">
-                        Giao thức TCP/IP http https</a>
+                        <a href="/css-co-ban-cho-nguoi-moi-bat-dau" title=" css cơ bản" class="relative__description">
+                        CSS cơ bản cho người mới bắt đầu</a>
                     </h3>
                 </li>
             </ul>

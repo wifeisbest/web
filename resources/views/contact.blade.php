@@ -4,9 +4,18 @@
 @section('content')
     <div class="bd-grid">
         <h1>Cảm ơn bạn đã ghé thăm</h1>
-        <p>Hiện tại mình không dùng mạng xã hội, mọi thông tin liên hệ bạn vui lòng gửi mail đến địa chỉ sau:
+            <h2> Bạn kết nối với mình qua Facebook nếu có thời gian mình sẵn sàng giải đáp mọi thắc mắc của bạn</h2>
+            <a href="https://www.facebook.com/profile.php?id=100072067791537">
+                https://www.facebook.com/profile.php?id=100072067791537
+            </a>
+            <h2>Twitter</h2>
+            <a href="https://twitter.com/xyzabc__xyz">
+            https://twitter.com/xyzabc__xyz
+            </a>
+            <h2>Gmail</h2>
             <b>xyzabc.vietnam@gmail.com</b>
-        </p>
+       
+       <h3>Mình luôn sẵn sàng</h3>
     
     </div>
 @endsection

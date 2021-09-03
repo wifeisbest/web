@@ -220,6 +220,14 @@ class MyController extends Controller
         $src = 'node3';
         return view('nodejs.node')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
-
+    //=========================== CSS ==============================================
+    public function csscoban(){ 
+        
+        $description = 'CSS cơ bản cho người mới tinh, tạo nên 1 website lung linh, đẹp mắt nhất';
+        $title = 'CSS cơ bản';
+        $url = 'css-co-ban-cho-nguoi-moi-bat-dau';
+        $src = 'css1';
+        return view('css.csscoban')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }
 

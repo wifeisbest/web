@@ -87,6 +87,14 @@
     color: var(--second-color);
     text-decoration: underline;
 }
+.social{
+    display: flex;
+    justify-content: space-between;
+}
+.social__img{
+    width: 25px;
+    border-radius: 50%;
+}
 .copyright{
     margin: 0;
 }

@@ -22,3 +22,4 @@ https://xyzabc.xyz/thuoc-tinh-trong-the-html
 https://xyzabc.xyz/ngon-ngu-lap-trinh-javascript
 https://xyzabc.xyz/bien-va-bieu-thuc-toan-hoc-trong-javascript
 https://xyzabc.xyz/kieu-gia-tri-cua-bien-trong-javascript
+https://xyzabc.xyz/css-co-ban-cho-nguoi-moi-bat-dau
