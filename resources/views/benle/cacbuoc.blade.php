@@ -78,7 +78,7 @@
                         <a href="/html-la-gi" class= "pre"title="html là gi" >
                             HTML là gì ?
                         </a>
-                        <!-- <a href="/giao-thuc-tcp-ip-http-va-https" class= "next"title="Giao thức http"> Giao thức TCP/IP http và https</a> -->
+                        <a href="/hoc-lap-trinh-de-lam-gi" class= "next"title="Học lập trình"> Học Lập trình để làm gì ?</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">

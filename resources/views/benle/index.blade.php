@@ -30,9 +30,8 @@
         <a href="/giao-thuc-tcp-ip-http-va-https">Giao thức TCP/Ip http và https</a>
         <a href="/mo-hinh-client-sever">Mô hình client sever</a>
         <a href="/cac-buoc-khi-ban-da-co-1-website">Các bước khi bạn đã có 1 website</a>
-        <!-- <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">1. Lộ trình học viết mã</a>
-        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">1. Lộ trình học viết mã</a>
-        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">1. Lộ trình học viết mã</a> -->
+        <a href="/hoc-lap-trinh-de-lam-gi">Học lập trình để làm gì ?</a>
+        
     
     </div>
 </div>

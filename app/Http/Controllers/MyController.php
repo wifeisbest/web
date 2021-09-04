@@ -143,6 +143,14 @@ class MyController extends Controller
         $src = 'daco';
         return view('benle.cacbuoc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function hoclaptrinh(){
+        
+        $description = 'Học lập trình để làm gì ? Mục đính của bạn là gì ? bạn học lập trình đến đâu rồi, mục đính của bạn đã đạt được chưa ?';
+        $title = 'Học lập trình để làm gì ? ';
+        $url = 'hoc-lap-trinh-de-lam-gi';
+        $src = 'dauhoi';
+        return view('benle.hoclaptrinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
     //=======================html================
 
     public function website(){
