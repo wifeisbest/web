@@ -95,6 +95,20 @@ class MyController extends Controller
         $src = 'roadmap';
         return view('contact')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function gioithieu(){
+        $description = 'Về tôi , về blog mà mình đang viết';
+        $title = 'Giới Thiệu';
+        $url = 'gioi-thieu';
+        $src = 'roadmap';
+        return view('gioithieu')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function policies(){
+        $description = 'Chính sách và điều khoản sử dụng';
+        $title = 'Điều khoản và chính sách sử dung';
+        $url = 'policies';
+        $src = 'roadmap';
+        return view('dieukhoan')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
     //================benle===================
 
     public function mucdich(){

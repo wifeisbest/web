@@ -35,6 +35,8 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/detail', 'MyController@detail');
 // contact
 Route::get('/contact', 'MyController@contact');
+Route::get('/gioi-thieu', 'MyController@gioithieu');
+Route::get('/policies', 'MyController@policies');
 
 // all post
 // benle
