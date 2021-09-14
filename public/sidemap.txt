@@ -24,3 +24,4 @@ https://xyzabc.xyz/bien-va-bieu-thuc-toan-hoc-trong-javascript
 https://xyzabc.xyz/kieu-gia-tri-cua-bien-trong-javascript
 https://xyzabc.xyz/css-co-ban-cho-nguoi-moi-bat-dau
 https://xyzabc.xyz/hoc-lap-trinh-de-lam-gi
+https://xyzabc.xyz/bo-cuc-website-nhu-the-nao

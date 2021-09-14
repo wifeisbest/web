@@ -207,6 +207,15 @@ class MyController extends Controller
         $src = 'html2';
         return view('html.thuoctinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function bocuc(){ 
+       
+        $description = 'Bố cục cơ bản nhất của 1 website là như thế nào ? Cùng tìm hiểu rõ bố cục của 1 website cơ bản nhất, và chi tiết nhất đúng chuẩn 
+        HTML5';
+        $title = 'Bố cục website như thế nào ? ';
+        $url = 'bo-cuc-website-nhu-the-nao';
+        $src = 'html6';
+        return view('html.bocuc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
     //==========================  javascript  ========================
 
     public function ngonngu(){ 

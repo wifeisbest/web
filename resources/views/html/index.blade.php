@@ -29,14 +29,9 @@
         <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html">Hoạt động của các thẻ trong tài liệu HTMl</a>
         <a href="/the-html-co-ban-nhat">Thẻ Html cơ bản nhất</a>
         <a href="/thuoc-tinh-trong-the-html" title="Thuộc tính "> Thuộc tính thẻ HTML</a>
-        <!-- <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">Lộ trình cơ bản nhất</a> -->
-        <!-- <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">Lộ trình cơ bản nhất</a> -->
-        <!-- <a href="/cach-thuc-mang-luoi-internet-hoat-dong">Cách thức mạng lưới internet hoạt động</a>
-        <a href="/giao-thuc-tcp-ip-http-va-https">Giao thức TCP/Ip http và https</a>
-        <a href="/mo-hinh-client-sever">Mô hình client sever</a> --> -->
-        <!-- <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">1. Lộ trình học viết mã</a>
-        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">1. Lộ trình học viết mã</a>
-        <a href="/lo-trinh-hoc-viet-ma-xay-dung-blog-website">1. Lộ trình học viết mã</a> -->
+        <a href="/bo-cuc-website-nhu-the-nao" title="bố cục website như thế nào ? "> Bố cục website như thế nào ?</a>
+         -->
+        
     
     </div>
 </div>
