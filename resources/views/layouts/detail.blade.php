@@ -30,7 +30,7 @@
     <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5420031609625386"
      crossorigin="anonymous"></script> -->
     <!-- end ads -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LTTFH1JP73"></script>
+   
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
