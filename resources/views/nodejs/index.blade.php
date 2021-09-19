@@ -25,7 +25,9 @@
     <div id="list">
             <h3>Danh sách bài viết</h3>       
         <a href="/nodejs-la-gi" title="javascript "> Nodejs là gì ?</a>
-        <!-- <a href="/bien-va-bieu-thuc-toan-hoc-trong-javascript" title="javascript "> Biến và biểu thức toán học</a> -->
+        <a href="/dang-ky-dang-nhap-su-dung-nodejs" title="Đăng ký đăng nhập sử dụng nodejs ">
+         Đăng ký đăng nhập sử dụng nodejs</a>
+        -->
         
     
     </div>

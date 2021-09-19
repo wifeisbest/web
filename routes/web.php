@@ -68,6 +68,7 @@ Route::get('/kieu-gia-tri-cua-bien-trong-javascript', 'MyController@kieu');
 
 //Nodejs
 Route::get('/nodejs-la-gi', 'MyController@node');
+Route::get('/dang-ky-dang-nhap-su-dung-nodejs', 'MyController@dangky');
 
 
 //css

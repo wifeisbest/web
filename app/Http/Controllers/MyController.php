@@ -251,6 +251,15 @@ class MyController extends Controller
         $src = 'node3';
         return view('nodejs.node')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function dangky(){ 
+        
+        $description = 'Đăng ký đăng nhập sử dụng nodejs cơ bản nhất , chi tiết nhất cho người mới bắt đầu, rất đơn giản 
+        chi tiết từ Z đến A, từ A đến Z ';
+        $title = 'Đăng ký đăng nhập sử dụng nodejs';
+        $url = 'dang-ky-dang-nhap-su-dung-nodejs';
+        $src = 'node2';
+        return view('nodejs.dangky')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
     //=========================== CSS ==============================================
     public function csscoban(){ 
         

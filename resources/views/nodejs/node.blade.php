@@ -42,15 +42,15 @@
 
                     </p>
                 
-                    <!-- <div class="next__pre">
-                        <a href="/website-la-gi" class= "pre"title="website là gì ?">
+                    <div class="next__pre">
+                        <!-- <a href="/website-la-gi" class= "pre"title="website là gì ?">
                             Website là gì ?
-                         </a>
-                        <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html" class= "next"title="hoạt động của các thẻ html"> 
-                            Hoạt động hiển thị của các thẻ
+                         </a> -->
+                        <a href="/dang-ky-dang-nhap-su-dung-nodejs" class= "next"title="Đăng ký đăng nhập sử dụng nodejs"> 
+                            Đăng ký đăng nhập sử dụng nodejs
                         </a>
                     </div>
-                     -->
+                    
                     <div class="tag">
                         Tag: <a href="/nodejs" title="nodejs"> Nodejs</a>
                     </div>

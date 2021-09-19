@@ -77,6 +77,8 @@
                     <div class="tag">
                         Tag: <a href="/html" title="bên lề viết mã"> HTML</a>
                     </div>
+                    <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>
+
                 </div>
             </article>
             <ul class="relative__post">
