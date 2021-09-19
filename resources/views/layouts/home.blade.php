@@ -40,6 +40,9 @@
     </script>
     @yield('css')
     
+    <meta property=”fb:app_id” content=”4314618238628568” />
+    
+    <meta property=”fb:admins” content=”100071669782551”/>
     
 </head>
 <body>
