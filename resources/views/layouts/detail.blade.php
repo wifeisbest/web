@@ -30,7 +30,9 @@
     <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5420031609625386"
      crossorigin="anonymous"></script> -->
     <!-- end ads -->
-   
+     
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LTTFH1JP73"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -38,7 +40,6 @@
 
         gtag('config', 'G-LTTFH1JP73');
     </script>
-    
     <link rel="stylesheet" href="css/main.css" > 
     @yield('css')
     

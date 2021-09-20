@@ -31,13 +31,15 @@
 
        
     
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LTTFH1JP73"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
         gtag('config', 'G-LTTFH1JP73');
-    </script>
+        </script>
     @yield('css')
     
     <meta property=”fb:app_id” content=”4314618238628568” />
