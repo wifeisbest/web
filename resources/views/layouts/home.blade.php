@@ -39,7 +39,8 @@
         gtag('js', new Date());
 
         gtag('config', 'G-LTTFH1JP73');
-        </script>
+    </script>
+    <!-- end google analytics -->
     @yield('css')
     
     <meta property=”fb:app_id” content=”4314618238628568” />

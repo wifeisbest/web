@@ -30,6 +30,7 @@
         <a href="/the-html-co-ban-nhat">Thẻ Html cơ bản nhất</a>
         <a href="/thuoc-tinh-trong-the-html" title="Thuộc tính "> Thuộc tính thẻ HTML</a>
         <a href="/bo-cuc-website-nhu-the-nao" title="bố cục website như thế nào ? "> Bố cục website như thế nào ?</a>
+        <a href="/cach-su-dung-cac-the-html-co-ban" title="Cách sử dụng các thẻ HTMl cơ bản ? "> Cách sử dụng các thẻ HTMl cơ bản ?</a>
          -->
         
     

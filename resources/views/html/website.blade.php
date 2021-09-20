@@ -78,8 +78,9 @@
                         Tag: <a href="/html" title="bên lề viết mã"> HTML</a>
                     </div>
                     <div class="fb-comments"
-                     data-href="https://xyzabc.xyz/website-la-gi" 
-                     data-width="" data-numposts="5"></div>
+                        data-href="https://xyzabc.xyz/website-la-gi" 
+                        data-width="" data-numposts="5">
+                     </div>
 
                 </div>
             </article>

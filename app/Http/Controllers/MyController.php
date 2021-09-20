@@ -208,13 +208,20 @@ class MyController extends Controller
         return view('html.thuoctinh')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     public function bocuc(){ 
-       
         $description = 'Bố cục cơ bản nhất của 1 website là như thế nào ? Cùng tìm hiểu rõ bố cục của 1 website cơ bản nhất, và chi tiết nhất đúng chuẩn 
         HTML5';
         $title = 'Bố cục website như thế nào ? ';
         $url = 'bo-cuc-website-nhu-the-nao';
         $src = 'html6';
         return view('html.bocuc')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function cachsudung(){ 
+        $description = ' Cách sử dụng các thẻ HTMl cơ bản nhất, sử dụng mục đích của thẻ, kiến thức cơ bản nhất mà mọi lập trình web đều biết
+        ';
+        $title = 'Cách sử dụng các thẻ HTMl cơ bản ';
+        $url = 'cach-su-dung-cac-the-html-co-ban';
+        $src = 'html4';
+        return view('html.cachsudung')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
     //==========================  javascript  ========================
 

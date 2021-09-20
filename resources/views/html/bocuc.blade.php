@@ -72,7 +72,7 @@
                         <a href="/hoat-dong-cua-cac-the-trong-tai-lieu-html" class= "pre"title="html là gì">
                             Hoạt động của thẻ HTML
                          </a>
-                        <!-- <a href="/bo-cuc-website-nhu-the-nao" class= "next"title="bố cục website"> Bố cục website như thế nào ?</a> -->
+                        <a href="/cach-su-dung-cac-the-html-co-ban" class= "next"title="cách sử dụng các thẻ html cơ bản"> Cách sử dụng các thẻ HTMl cơ bản</a>
                     </div>
                     <!-- <span class="hightline">require, import, exports</span>  -->
                     <div class="tag">

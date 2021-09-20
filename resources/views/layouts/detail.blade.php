@@ -31,7 +31,7 @@
      crossorigin="anonymous"></script> -->
     <!-- end ads -->
      
-        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LTTFH1JP73"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -40,16 +40,17 @@
 
         gtag('config', 'G-LTTFH1JP73');
     </script>
+    <!-- end google analytics -->
     <link rel="stylesheet" href="css/main.css" > 
     @yield('css')
     
     
 
-    
+    <!-- facebook coment -->
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0&appId=4314618238628568&autoLogAppEvents=1" nonce="u20ioB1s"></script>
     <meta property=”fb:app_id” content=”4314618238628568” />
-    
     <meta property=”fb:admins” content=”100071669782551”/>
+    <!-- end facebook comment -->
 </head>
 <body>
    
