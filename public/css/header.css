@@ -5,7 +5,7 @@
     top: 0;
     z-index: 100;
     background-color: #000;
-    box-shadow: 0 1px 4px rgba(146,161,176, 0.2);
+    box-shadow: 1px 1px 129px 20px rgb(250 251 253 / 50%);
 }
 .nav{
     height: var(--header-height);
