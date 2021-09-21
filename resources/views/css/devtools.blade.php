@@ -79,10 +79,11 @@
                         Tag: <a href="/css3" title="CSS"> CSS</a>
                     </div>
 
-                    <div class="fb-comments"
+                    <div class="fb-comments" data-href="https://xyzabc.xyz/huong-dan-su-dung-dev-tools-co-ban" data-width="" data-numposts="5"></div>
+                    <!-- <div class="fb-comments"
                         data-href="https://xyzabc.xyz/huong-dan-su-dung-dev-tools-co-ban" 
                         data-width="" data-numposts="6">
-                    </div>
+                    </div> -->
                     
                 </div>
                 
