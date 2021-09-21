@@ -47,7 +47,7 @@
     
 
     <!-- facebook coment -->
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0&appId=4314618238628568&autoLogAppEvents=1" nonce="u20ioB1s"></script>
+    <!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0&appId=4314618238628568&autoLogAppEvents=1" nonce="u20ioB1s"></script> -->
     <meta property=”fb:app_id” content=”4314618238628568” />
     <meta property=”fb:admins” content=”100071669782551”/>
     <!-- end facebook comment -->
@@ -58,7 +58,7 @@
         @yield('content')
     @include('includes.footer')
 
-    <div id="fb-root"></div>
+    <!-- <div id="fb-root"></div>
     <script>
         window.fbAsyncInit = function() {
             FB.init({
@@ -79,7 +79,10 @@
             js.src = "https://connect.facebook.net/en_US/sdk.js";
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
-    </script>
+    </script> -->
+
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0&appId=4314618238628568&autoLogAppEvents=1" nonce="9PrrDQnX"></script>
 
     <script src="js/main.js"></script>
     
