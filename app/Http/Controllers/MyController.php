@@ -269,12 +269,18 @@ class MyController extends Controller
     }
     //=========================== CSS ==============================================
     public function csscoban(){ 
-        
         $description = 'CSS cơ bản cho người mới tinh, tạo nên 1 website lung linh, đẹp mắt nhất';
         $title = 'CSS cơ bản';
         $url = 'css-co-ban-cho-nguoi-moi-bat-dau';
         $src = 'css1';
         return view('css.csscoban')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
+    public function devtools(){ 
+        $description = 'Cách dùng Chrome DevTools cơ bản nhất, 1 công cụ cực mãnh mẽ và tuyệt vời giúp chúng ta xây dựng và chuẩn đoán, điều chỉnh, các vấn đề nhanh nhất ';
+        $title = 'Hướng dẫn sử dụng devtools cơ bản';
+        $url = 'huong-dan-su-dung-dev-tools-co-ban';
+        $src = 'css3';
+        return view('css.devtools')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
 }
 

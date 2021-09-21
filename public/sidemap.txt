@@ -27,3 +27,4 @@ https://xyzabc.xyz/hoc-lap-trinh-de-lam-gi
 https://xyzabc.xyz/bo-cuc-website-nhu-the-nao
 https://xyzabc.xyz/dang-ky-dang-nhap-su-dung-nodejs
 https://xyzabc.xyz/cach-su-dung-cac-the-html-co-ban
+https://xyzabc.xyz/huong-dan-su-dung-dev-tools-co-ban

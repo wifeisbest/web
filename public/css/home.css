@@ -73,7 +73,14 @@ h4 a{
     color: red;
    
 }
-
+.sologan{
+    text-align: center;
+    font-size: 18px;
+    color: red;
+    font-weight: var(--font-medium);
+    font-style: italic;
+    margin: 16px 0 0 0;
+}
 @media screen and (max-width : 768px){
       
     .section__description{

@@ -69,12 +69,12 @@
                         Qua bài này chúng ta đã hiểu thêm được 1 chút về vai trò , cú pháp, vị trí của CSS trong việc làm đẹp website. Chân thành cảm ơn bạn 
                         đã đọc. Chúc bạn 1 ngày thành công.
                     </p>
-                    <!-- <div class="next__pre">
-                        <a href="/mo-hinh-client-sever" class= "pre"title="mô hình">
+                    <div class="next__pre">
+                        <!-- <a href="/mo-hinh-client-sever" class= "pre"title="mô hình">
                             Mô hình client - sever 
-                         </a>
-                        <a href="/html-la-gi" class= "next"title="bên lề viết mã"> HTMl là gì ?</a>
-                    </div> -->
+                         </a> -->
+                        <a href="/huong-dan-su-dung-dev-tools-co-ban" class= "next"title="Hướng dẫn sử dụng dev tools cơ bản">Hướng dẫn sử dụng dev tools cơ bản </a>
+                    </div>
                     
                     <div class="tag">
                         Tag: <a href="/css3" title="CSS"> CSS</a>

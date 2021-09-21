@@ -74,3 +74,4 @@ Route::get('/dang-ky-dang-nhap-su-dung-nodejs', 'MyController@dangky');
 
 //css
 Route::get('/css-co-ban-cho-nguoi-moi-bat-dau', 'MyController@csscoban');
+Route::get('/huong-dan-su-dung-dev-tools-co-ban', 'MyController@devtools');

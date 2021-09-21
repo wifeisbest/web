@@ -61,7 +61,7 @@
                 </h1>
             </a>
         </div>
-
+            <h3 class="sologan">" Cách học lập trình tốt nhất là lập trình "</h3>
 
         @yield('content')
 

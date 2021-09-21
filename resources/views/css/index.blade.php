@@ -26,6 +26,7 @@
     <div id="list">
             <h3>Danh sách bài viết</h3>
         <a href="/css-co-ban-cho-nguoi-moi-bat-dau">CSS cơ bản</a>
+        <a href="/huong-dan-su-dung-dev-tools-co-ban">Hướng dẫn sử dụng dev tools cơ bản</a>
         
         
     
