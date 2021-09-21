@@ -36,7 +36,7 @@
                     </p>
                     
                     <p>
-                       <img src="/img/devtool2.png" alt=" devtools">
+                       <img src="/img/devtool2.jpg" alt=" devtools">
                     </p>
                     
                     <p>           
