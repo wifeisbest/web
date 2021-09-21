@@ -36,7 +36,7 @@
                     </p>
                     
                     <p>
-                       <img src="/img/devtool1.png" alt=" Css cơ bản">
+                       <img src="/img/devtool2.png" alt=" devtools">
                     </p>
                     
                     <p>           
