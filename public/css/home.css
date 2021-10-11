@@ -29,19 +29,19 @@
     opacity: 0.8;
 }
 .section__article{  
-    border-bottom: 1px dashed #dad8d8; 
-    margin-bottom: 24px; 
+    border-bottom: 1px solid #dad8d8; 
+    margin-bottom: 4px; 
 }
 .section__wrap{
-    padding: var(--mb-4) 0;
+    padding: var(--mb-2) 0;
    
 }
 .section__description{
     display: flex;
     line-height: 35px;
-    font-size: 20px;
+    font-size: 17px;
     color: #131313;
-    font-weight: 300;
+    align-items: center;
 }
 .section__img{
     width: 140px;
