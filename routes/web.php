@@ -63,6 +63,7 @@ Route::get('/cach-su-dung-cac-the-html-co-ban', 'MyController@cachsudung');
 Route::get('/ngon-ngu-lap-trinh-javascript', 'MyController@ngonngu');
 Route::get('/bien-va-bieu-thuc-toan-hoc-trong-javascript', 'MyController@bien');
 Route::get('/kieu-gia-tri-cua-bien-trong-javascript', 'MyController@kieu');
+Route::get('/hieu-ro-ve-ham-trong-javascript', 'MyController@ham');
 
 
 

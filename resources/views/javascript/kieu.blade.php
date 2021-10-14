@@ -87,9 +87,9 @@
                     <a href="/bien-va-bieu-thuc-toan-hoc-trong-javascript" class= "pre"title="Ngôn ngữ lập trình">
                         Biến và biểu thức toán học
                         </a>
-                        <!-- <a href="/kieu-gia-tri-cua-bien-trong-javascript" class= "next"title="Kiểu giá trị của biến">
-                        Kiểu giá trị của biến
-                        </a> -->
+                        <a href="/hieu-ro-ve-ham-trong-javascript" class= "next"title="Hiểu rõ về hàm trong javascript">
+                        Hiểu rõ về hàm trong javascript
+                        </a>
                         
                 </div> 
                 
@@ -118,15 +118,7 @@
                         Cách thức internet hoạt động</a>
                     </h3>
                 </li> 
-                <li class="relative__post-item">
-                    <a href="/contact" title="giao thức mạng">
-                        <img src="/img/html1.png" alt="http">
-                    </a>
-                    <h3>
-                        <a href="/contact" title=" html" class="relative__description">
-                        Giao thức TCP/IP http https</a>
-                    </h3>
-                </li>
+               
             </ul>
         </section>  
     </div>

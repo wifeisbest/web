@@ -248,6 +248,14 @@ class MyController extends Controller
         $src = 'js1';
         return view('javascript.kieu')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function ham(){ 
+        
+        $description = 'Hàm là một những khái niệm quan trọng nhất của bất kỳ ngôn ngữ lập trình nào, cùng hiểu rõ các khái niệm về hàm trong javascript';
+        $title = 'Hàm trong javascript';
+        $url = 'hieu-ro-ve-ham-trong-javascript';
+        $src = 'js5';
+        return view('javascript.ham')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
     //===========================  Nodejs  ==================================
     
     public function node(){ 
