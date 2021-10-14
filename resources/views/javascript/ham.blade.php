@@ -127,6 +127,8 @@
                     Tag: <a href="/javascript" title="javascript"> Javascript</a>
                 </div>
                 
+                <div class="fb-comments" data-href="https://xyzabc.xyz/hieu-ro-ve-ham-trong-javascript" data-width="" data-numposts="5"></div>
+
             </article>
             <ul class="relative__post">
                 <li class="relative__post-item">
@@ -158,4 +160,10 @@
 <link rel="stylesheet" href="css/header.css">
 <link rel="stylesheet" href="css/home.css">
 <link rel="stylesheet" href="css/detail.css">
+@endsection
+
+@section('facebook')
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0&appId=4314618238628568&autoLogAppEvents=1" nonce="HARSRbRv"></script>
+
 @endsection
