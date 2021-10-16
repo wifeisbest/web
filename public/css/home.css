@@ -25,7 +25,6 @@
     color: #222222;
 }
 .section__title:hover{
-    color: var(--second-color);
     opacity: 0.8;
 }
 .section__article{  
