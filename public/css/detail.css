@@ -6,9 +6,9 @@
     font-size: var(--mb-6);
 }
 p{
-    line-height: 29px;
+    line-height: 23px;
     font-size: 18px;
-    color:black;
+    color:#131313;
     
     padding-bottom:  var(--mb-3) ;
 }

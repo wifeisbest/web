@@ -38,7 +38,7 @@
 }
 .section__description{
     display: flex;
-    line-height: 35px;
+    line-height: 23px;
     font-size: 17px;
     color: #131313;
     align-items: center;
