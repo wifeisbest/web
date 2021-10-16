@@ -3,11 +3,12 @@
 } */
 .detail__h1{
     margin: 98px 0 var(--mb-4) 0;
-    font-size: var(--mb-6);
+    font-size: var(--mb-5);
+    font-weight: 400;
 }
 p{
-    line-height: 23px;
-    font-size: 18px;
+    line-height: 24px;
+    font-size: 16px;
     color:#131313;
     
     padding-bottom:  var(--mb-3) ;
@@ -25,10 +26,10 @@ p img {
     font-size: 16px;
 }
 h2{
-    padding-bottom: var(--mb-3);
-    border-bottom: 1px dashed #dad8d8;
+    padding-bottom: var(--mb-2);
+    border-bottom: 1px solid #e7e2e2;
     margin-bottom: 16px;
-    
+   font-weight: 400; 
 }
 .tag{
     display: flex;
