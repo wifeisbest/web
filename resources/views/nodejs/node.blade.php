@@ -46,9 +46,9 @@
                         <!-- <a href="/website-la-gi" class= "pre"title="website là gì ?">
                             Website là gì ?
                          </a> -->
-                        <a href="/dang-ky-dang-nhap-su-dung-nodejs" class= "next"title="Đăng ký đăng nhập sử dụng nodejs"> 
+                        <!-- <a href="/dang-ky-dang-nhap-su-dung-nodejs" class= "next"title="Đăng ký đăng nhập sử dụng nodejs"> 
                             Đăng ký đăng nhập sử dụng nodejs
-                        </a>
+                        </a> -->
                     </div>
                     
                     <div class="tag">
