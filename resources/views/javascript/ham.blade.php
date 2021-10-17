@@ -117,9 +117,9 @@
                     <a href="/bien-va-bieu-thuc-toan-hoc-trong-javascript" class= "pre"title="Ngôn ngữ lập trình">
                         Biến và biểu thức toán học
                         </a>
-                        <!-- <a href="/kieu-gia-tri-cua-bien-trong-javascript" class= "next"title="Kiểu giá trị của biến">
-                        Kiểu giá trị của biến
-                        </a> -->
+                        <a href="/arrow-function-trong-javascript" class= "next"title="Hàm mũi tên trong javascript">
+                            Hàm mũi tên trong javascript
+                        </a>
                         
                 </div> 
                 

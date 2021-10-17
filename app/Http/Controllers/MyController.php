@@ -256,6 +256,14 @@ class MyController extends Controller
         $src = 'js5';
         return view('javascript.ham')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function muiten(){ 
+        
+        $description = 'Hàm mũi tên trong javascript ES6, cách viết hàm mũi tên, cách sử dụng hàm mũi tên cơ bản nhất, chú ý khi sử dụng hàm mũi tên';
+        $title = 'Arrow function trong javascript';
+        $url = 'arrow-function-trong-javascript';
+        $src = 'js6';
+        return view('javascript.muiten')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
     //===========================  Nodejs  ==================================
     
     public function node(){ 
