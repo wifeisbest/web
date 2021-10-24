@@ -298,5 +298,12 @@ class MyController extends Controller
         $src = 'css3';
         return view('css.devtools')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function donvi(){ 
+        $description = 'Các đơn vị đo thường dùng nhất trong CSS, Hiểu rõ về các đơn vị đo trong CSS, Cách sử dụng đúng các đơn vị đo trong CSS';
+        $title = 'Cách sử dụng các đơn vị đo trong CSS';
+        $url = 'cach-su-dung-cac-don-vi-do-trong-css';
+        $src = 'css1';
+        return view('css.donvi')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }
 

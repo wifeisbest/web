@@ -72,7 +72,7 @@
                         <a href="/css-co-ban-cho-nguoi-moi-bat-dau" class= "pre"title="Css cơ bản cho người mới bắt đầu">
                             Css cơ bản cho người mới bắt đầu
                          </a>
-                        <!-- <a href="/html-la-gi" class= "next"title="bên lề viết mã"> HTMl là gì ?</a> -->
+                        <a href="/cach-su-dung-cac-don-vi-do-trong-css" class= "next"title="cách sử dụng các đơn vị đo trong CSS"> Cách sử dụng các đơn vị đo trong css</a>
                     </div>
                     
                     <div class="tag">
@@ -80,10 +80,7 @@
                     </div>
 
                     <div class="fb-comments" data-href="https://xyzabc.xyz/huong-dan-su-dung-dev-tools-co-ban" data-width="" data-numposts="5"></div>
-                    <!-- <div class="fb-comments"
-                        data-href="https://xyzabc.xyz/huong-dan-su-dung-dev-tools-co-ban" 
-                        data-width="" data-numposts="6">
-                    </div> -->
+                   
                     
                 </div>
                 
