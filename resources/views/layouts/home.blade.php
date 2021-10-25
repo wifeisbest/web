@@ -49,7 +49,7 @@
     <meta property=”fb:admins” content=”100071669782551”/>
     
 </head>
-<body>
+<body class="body">
         
     @include('includes.header')  
         <div class="banner">
@@ -62,6 +62,7 @@
                 </h1>
             </a>
         </div>
+            <div id="toggleBtn"></div>
             <h3 class="sologan">" Cách học lập trình tốt nhất là lập trình "</h3>
 
         @yield('content')

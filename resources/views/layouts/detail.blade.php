@@ -53,8 +53,8 @@
     <meta property=”fb:admins” content=”100071669782551”/>
     <!-- end facebook comment -->
 </head>
-<body>
-   
+<body class='body' id="duong">
+    <div id="toggleBtn"></div>
     @include('includes.header')        
         @yield('content')
     @include('includes.footer')

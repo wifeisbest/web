@@ -72,3 +72,54 @@ a{
         margin-left: 0;
     }
 }
+
+/* Dark Mode */
+/* .den{
+    background-color: black;
+} */
+
+#toggleBtn {
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #888;
+    box-shadow: rgba(100, 100, 110, 0.2) 0px 8px 28px 0px;
+    position: fixed;
+    left: 50px;
+   
+}
+#toggleBtn::before {
+    content: '';
+    position: absolute;
+    left: 2px;
+    bottom: 2px;
+    width: 36px;
+    height: 36px;
+    background-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.35s;
+}
+#toggleBtn.active::before {
+    transform: translateX(40px);
+}
+
+body.darkmode-active {
+    background-color: #18191a;
+}
+.darkmode-active h2 {
+    color: #fff;
+}
+.darkmode-active .section__title {
+    color: #fff;
+}
+.darkmode-active p {
+    color: #fff;
+}
+.darkmode-active #toggleBtn {
+    background-color: #4e4f50;
+    box-shadow: rgba(25, 25, 25, 0.2) 0px 8px 28px 0px;
+}
+.darkmode-active #toggleBtn::before {
+    background-color: #242526;
+}
