@@ -305,5 +305,12 @@ class MyController extends Controller
         $src = 'css1';
         return view('css.donvi')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function bochon(){ 
+        $description = 'Cách sử dụng các bộ chọn trong CSS, bộ chọn CSS cơ bản, các bộ chọn hay dùng nhất trong CSS3 ';
+        $title = 'Cách sử dụng các bộ chọn trong CSS';
+        $url = 'cach-su-dung-cac-bo-chon-trong-css3';
+        $src = 'css3';
+        return view('css.bochon')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }
 

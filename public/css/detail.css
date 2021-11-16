@@ -120,3 +120,7 @@ h2{
 .next .pre{
     color: var(--second-color);
 }
+
+#bochon{
+    margin-left: 8px;
+}

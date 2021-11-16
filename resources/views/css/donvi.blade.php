@@ -83,9 +83,9 @@
                     <a href="/huong-dan-su-dung-dev-tools-co-ban" class= "pre"title="hướng dẫn sử dụng dev-tools cơ bản">
                         hướng dẫn sử dụng dev-tools cơ bản
                     </a>
-                        <!-- <a href="/arrow-function-trong-javascript" class= "next"title="Hàm mũi tên trong javascript">
-                            Hàm mũi tên trong javascript
-                        </a> -->
+                        <a href="/cach-su-dung-cac-bo-chon-trong-css3" class= "next"title="Cách sử dụng các bộ chọn trong css">
+                            Cách sử dụng các bộ chọn trong css
+                        </a>
                         
                 </div> 
                 
