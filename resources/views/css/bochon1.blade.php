@@ -79,10 +79,15 @@
                     <img src="/img/bochon8.png" alt="bộ chọn">
                 </p>     
                 <p>
-                       
+                  Ngoài cách chọn trên chúng ta cũng thường xuyên gặp cách chọn <span class="hightline">:nth-child( n )</span> và <span class="hightline">:nth-last-child( n )</span> 
+                  trong đó <b>n </b> là thứ tự phần con chúng ta muốn chọn được đánh theo số ví dụ như 1 , 2, 3 .... Cách chọn này chúng ta chỉ tham khảo để hiểu 
+                  còn trong thực tế chúng được ít dùng hơn, vì dùng 2 cách này nó không có tính linh hoạt và nó khá là cứng nhắc, khi phần tử trong thẻ HTML thay đổi thêm hoặc bớt thì 
+                  các giá trị chúng cũng bị thay đổi theo.
+
                 </p>
                 <p>
-                   
+                    Bộ chọn này còn rất nhiều các lớp giả khác như <span class="hightline">:only-child , :focus :target .....</span> các bạn hãy tìm hiểu thêm 
+                    ở các nguồn khác nữa nhé. Cảm ơn các bạn đã đọc và luôn ghé thăm blog nhỏ nhoi này của mình. Chúc các bạn thành công.
                 </p>  
                
 
