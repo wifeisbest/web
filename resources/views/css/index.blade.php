@@ -29,6 +29,7 @@
         <a href="/huong-dan-su-dung-dev-tools-co-ban">Hướng dẫn sử dụng dev tools cơ bản</a>
         <a href="/cach-su-dung-cac-don-vi-do-trong-css">Cách sử dụng các đơn vị đo trong CSS</a>
         <a href="/cach-su-dung-cac-bo-chon-trong-css3">Cách sử dụng các bộ chọn trong CSS</a>
+        <a href="/cach-su-dung-cac-bo-chon-trong-css3-phan-2">Cách sử dụng các bộ chọn trong CSS phần 2</a>
         
         
     

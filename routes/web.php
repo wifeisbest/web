@@ -79,3 +79,4 @@ Route::get('/css-co-ban-cho-nguoi-moi-bat-dau', 'MyController@csscoban');
 Route::get('/huong-dan-su-dung-dev-tools-co-ban', 'MyController@devtools');
 Route::get('/cach-su-dung-cac-don-vi-do-trong-css', 'MyController@donvi');
 Route::get('/cach-su-dung-cac-bo-chon-trong-css3', 'MyController@bochon');
+Route::get('/cach-su-dung-cac-bo-chon-trong-css3-phan-2', 'MyController@bochon1');

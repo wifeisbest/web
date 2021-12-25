@@ -106,9 +106,9 @@
                     <a href="/cach-su-dung-cac-don-vi-do-trong-css" class= "pre"title="bộ chọn css">
                        Cách sử dụng các đơn vị đo trong css
                     </a>
-                        <!-- <a href="/arrow-function-trong-javascript" class= "next"title="Hàm mũi tên trong javascript">
-                            Hàm mũi tên trong javascript
-                        </a> -->
+                        <a href="/cach-su-dung-cac-bo-chon-trong-css3-phan-2" class= "next"title="bộ chọn trong css3">
+                            Bộ chọn trong css3 phần 2
+                        </a>
                         
                 </div> 
                 

@@ -312,5 +312,12 @@ class MyController extends Controller
         $src = 'css3';
         return view('css.bochon')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
     }
+    public function bochon1(){ 
+        $description = 'Bộ chọn trong css3 là gì ? Bộ chọn cơ bản đơn giản nhất, Bộ chọn css3 hay dùng nhất';
+        $title = 'Cách sử dụng các bộ chọn trong CSS phần 2';
+        $url = 'cach-su-dung-cac-bo-chon-trong-css3-phan-2';
+        $src = 'css6';
+        return view('css.bochon1')->with(['description'=>$description,'title'=>$title,'url'=>$url,'src'=>$src]);
+    }
 }
 
